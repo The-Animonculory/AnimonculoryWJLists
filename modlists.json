@@ -140,7 +140,7 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://github.com/chri3i/Ruvaak-Readme/blob/main/.github/RuvaakTitle.webp",
+      "image": "https://raw.githubusercontent.com/chri3i/Ruvaak-Readme/main/.github/RuvaakTitle.webp",
       "readme": "https://github.com/chri3i/Ruvaak-Readme",
       "download": "https://authored-files.wabbajack.org/Ruvaak.wabbajack_d5e22332-4606-4d4c-a307-6a7da0e3916e/",
       "machineURL": "ruvaak",
