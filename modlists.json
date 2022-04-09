@@ -120,8 +120,7 @@
     "version": "1.3",
     "RepositoryName": ""
   },
-  
-    {
+  {
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Ruvaak",
     "description": "Ruvaak is a list focused on making Skyrim: Anniversary Edition (AE) into a dark fantasy roleplaying game. Many new mechanics and changes are present to offer an alternate take on the game.",
@@ -147,16 +146,15 @@
       "machineURL": "ruvaak",
       "discordURL": "https://discord.gg/DffHKcszfg"
     },
-    "download_metadata": 
-      {
-  "$type": "DownloadMetadata, Wabbajack.Lib",
-  "Hash": "+E6PpAy7h2w=",
-  "Size": 116488553,
-  "NumberOfArchives": 1176,
-  "SizeOfArchives": 85993102949,
-  "NumberOfInstalledFiles": 118926,
-  "SizeOfInstalledFiles": 129597112655
-      },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "+E6PpAy7h2w=",
+      "Size": 116488553,
+      "NumberOfArchives": 1176,
+      "SizeOfArchives": 85993102949,
+      "NumberOfInstalledFiles": 118926,
+      "SizeOfInstalledFiles": 129597112655
+    },
     "version": "2.0.0.0",
     "RepositoryName": ""
   }
