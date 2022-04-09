@@ -1,37 +1,40 @@
 [
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
-    "title": "My Modlist",
-    "description": "Best thing since sliced bread",
-    "author": "<any name you want to show up in the UI>",
+    "title": "Septimus",
+    "description": "Septimus is an extensive modlist full of carefully chosen new gear, spells, quests, and personal touches, all designed to fit seamlessly into the game. It also contains optional lightweight survival gameplay and full anniversary edition creation club support. It is designed to look beautiful while maintaining a stable 60+ framerate on almost any machine.",
+    "author": "Guitarninja",
     "maintainers": [
-      "github/<your github name>"
+      "github/Guitarninja2",
+      "guitarninja"
     ],
     "game": "skyrimspecialedition",
+    "official": false,
     "tags": [
-      "testing",
-      "<any tags you want in the UI, each in its own string"
+      "Official"
     ],
     "nsfw": false,
-    "image_contains_title": false,
+    "utility_list": false,
+    "image_contains_title": true,
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "<link to an image to show in the UI>",
-      "readme": "<link to your readme for your modlist>",
-      "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
-      "machineURL": "machineURL",
-      "discordURL": "<your discord link here>"
+      "image": "https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/banner4.webp",
+      "readme": "https://raw.githubusercontent.com/Guitarninja2/septimus/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Septimus.wabbajack_d41ddc07-82fc-4fae-ab25-91d7d33e2c00",
+      "machineURL": "septimus",
+      "discordURL": "https://discord.gg/DffHKcszfg"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "e1+K7eJbDJw=",
-      "Size": 0,
-      "NumberOfArchives": 14,
-      "SizeOfArchives": 135206078,
-      "NumberOfInstalledFiles": 1311,
-      "SizeOfInstalledFiles": 336453775
+      "Hash": "yWQZUt3r8mU=",
+      "Size": 454247677,
+      "NumberOfArchives": 930,
+      "SizeOfArchives": 90434257124,
+      "NumberOfInstalledFiles": 181438,
+      "SizeOfInstalledFiles": 135451112603
     },
-    "version": "1.0",
+    "version": "3.0.3.1",
+    "RepositoryName": ""
   }
 ]
