@@ -52,7 +52,7 @@
       "Official",
       "Survival",
       "Hardcore",
-      "Ordinator",
+      "SkySa",
       "Roleplay",
       "NeverNude"
     ],
@@ -132,7 +132,9 @@
     "game": "skyrimspecialedition",
     "official": false,
     "tags": [
-      "Unofficial"
+      "Unofficial",
+      "NeverNude",
+      "ABR"
     ],
     "nsfw": false,
     "utility_list": false,
