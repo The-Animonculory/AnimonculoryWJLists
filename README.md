@@ -1,3 +1,5 @@
+![Animonculory-banner](https://raw.githubusercontent.com/The-Animonculory/AnimonculoryWJLists/main/animonculory.png)
+
 # Animonculory Modlists
 Official Repository for Animonculory Modlists
 
