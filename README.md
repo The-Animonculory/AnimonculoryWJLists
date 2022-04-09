@@ -7,6 +7,7 @@ Official Repository for Animonculory Modlists
 Animonculory Visual Overhaul (AVO) is designed as a base for your own modlist. Featuring graphical enhancements, mandatory bug fixes and tweaks and method patching, it is the perfect base to build upon. AVO is made for Skyrim Special Edition Version 1.6.353 (also known as Anniversary Edition) and uses the .exe of that version as well.
 
 ## [Septimus](https://github.com/Guitarninja2/septimus/blob/main/README.md)
+> "I can almost... hear them. I feel their life energy. Come, I will make the mixture."
 Septimus is an extensive modlist full of carefully chosen new gear, spells, quests, and personal touches, all designed to fit seamlessly into the game. It also contains optional lightweight survival gameplay and full anniversary edition creation club support. It is designed to look beautiful while maintaining a stable 60+ framerate on almost any machine.
 
 ## [Tinvaak](https://github.com/Althro/Tinvaak2/blob/main/README.md)
