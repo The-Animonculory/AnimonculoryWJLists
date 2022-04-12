@@ -20,3 +20,8 @@ Tinvaak is a list focused on making Skyrim: Special Edition (SSE) into an actual
 > "You are not alone. Remember this the next time you wander the harsh, frozen lands of Skyrim. Many have tried --and failed-- to discover what lurks out there, in the mists, and many will after you are gone. Tell me, do you have what it takes to survive?"
 
 Ruvaak is a list focused on making Skyrim: Anniversary Edition (AE) into a dark fantasy roleplaying game. Many new mechanics and changes are present to offer an alternate take on the game. You can view many of these changes [showcase video from DroppedIceCream](https://www.youtube.com/watch?v=KY1qEnkNpzM) and in the [Changes to Gameplay](https://github.com/chri3i/Ruvaak-Readme/blob/main/changes%20to%20gameplay.md) article. 
+
+## [Journey](https://github.com/SiraMirai/journey/blob/main/README.md)
+> "You realize that all your life you have been coasting along as if you were in a dream. Suddenly, facing the trials of the last few days, you have come alive."
+
+Journey is a simple modlist designed to give a vanilla-like graphical presentation and provide a solid Vanilla+ gameplay overhaul with full Creation Club integration. Journey's purpose is to provide a base graphical and gameplay overhaul to play Skyrim fairly close to how the game was or to add on your own choice of followers, quests, and new lands beyond what is already included.
