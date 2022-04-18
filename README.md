@@ -3,6 +3,8 @@
 # Animonculory Modlists
 Official Repository for Animonculory Modlists
 
+![WJ-Lists](https://raw.githubusercontent.com/The-Animonculory/AnimonculoryWJLists/main/Wabbajack%20Lists.gif)
+
 ## [Animonculory Visual Overhaul](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/Readme.md)
 Animonculory Visual Overhaul (AVO) is designed as a base for your own modlist. Featuring graphical enhancements, mandatory bug fixes and tweaks and method patching, it is the perfect base to build upon. AVO is made for Skyrim Special Edition Version 1.6.353 (also known as Anniversary Edition) and uses the .exe of that version as well.
 
