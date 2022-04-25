@@ -163,7 +163,7 @@
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Journey",
-    "description": "Journey is a simple modlist designed to give a vanilla-like graphical presentation and provide a solid Vanilla+ gameplay overhaul and full Creation Club integration. Journey's purpose is to provide a base graphical and gameplay overhaul to play Skyrim fairly close to how the game was or to add on your own choice of followers, quests, and new lands beyond what is already included.",
+    "description": "Journey is a lightweight modlist designed to give an enhanced vanilla-like graphical presentation and provide a solid Vanilla+ gameplay overhaul and full Creation Club integration. Journey's purpose is to provide a base graphical and gameplay overhaul to play Skyrim fairly close to how the game was or to add on your own choice of followers, quests, and new lands beyond what is already included.",
     "author": "SiraMirai",
     "maintainers": [
       "github/SiraMirai",
