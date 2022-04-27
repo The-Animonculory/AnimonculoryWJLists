@@ -39,6 +39,44 @@
   },
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "The Path",
+    "description": "The Path is a lightweight Enderal modlist meant to enhance visuals, provide quality of life improvements and introduce some small content additions while keeping the game close to the game's original vision.",
+    "author": "Guitarninja",
+    "maintainers": [
+      "github/Guitarninja2",
+      "guitarninja"
+    ],
+    "game": "enderalspecialedition",
+    "official": false,
+    "tags": [
+      "Unofficial"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/Guitarninja2/thepath/main/images/banner.webp",
+      "readme": "https://raw.githubusercontent.com/Guitarninja2/thepath/main/README.md",
+      "download": "https://authored-files.wabbajack.org/The%20Path-1.0.0.wabbajack_91ac31da-cdd6-4fea-9fc2-e5105838ea29",
+      "machineURL": "thepath",
+      "discordURL": "https://discord.gg/DffHKcszfg"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "IXpDVMEY5lk=",
+      "Size": 389130566,
+      "NumberOfArchives": 637,
+      "SizeOfArchives": 71846011329,
+      "NumberOfInstalledFiles": 54730,
+      "SizeOfInstalledFiles": 81184388239
+    },
+    "version": "1.0.0",
+    "RepositoryName": ""
+  },
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Tinvaak 2",
     "description": "The premier roleplaying list for Skyrim SE, Tinvaak is a list focused on making Skyrim: Special Edition (SSE) into an actual roleplaying game. Many new mechanics and changes are present to offer an alternate take on the game.",
     "author": "The Animonculory",
