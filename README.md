@@ -26,4 +26,4 @@ Ruvaak is a list focused on making Skyrim: Anniversary Edition (AE) into a dark 
 ## [Journey](https://github.com/SiraMirai/journey/blob/main/README.md)
 > "You realize that all your life you have been coasting along as if you were in a dream. Suddenly, facing the trials of the last few days, you have come alive."
 
-Journey is a lightweight modlist designed to give an enhanced graphical presentation that keeps the spirit of Skyrim's aesthetic and provide a cohesive lightweight gameplay overhaul. Journey's purpose is to provide an enhanced Skyrim experience with a few carefully selected additional quests, new lands, and optional companions included. Journey should look beautiful but run well even on lower-end systems.
+Journey is a lightweight modlist designed to give an enhanced graphical presentation that keeps the spirit of Skyrim's aesthetic and provide a cohesive lightweight gameplay overhaul with an optional survival component using Survival Mode and optional full Creation Club Integration with a few carefully selected additional quests, new lands, and optional companions included. Journey should look beautiful but run well even on lower-end systems.
