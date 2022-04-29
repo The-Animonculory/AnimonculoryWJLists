@@ -47,9 +47,9 @@
       "guitarninja"
     ],
     "game": "enderalspecialedition",
-    "official": false,
+    "official": true,
     "tags": [
-      "Unofficial"
+      "Official"
     ],
     "nsfw": false,
     "utility_list": false,
