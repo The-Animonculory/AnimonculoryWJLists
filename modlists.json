@@ -201,7 +201,7 @@
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Journey",
-    "description": "Journey is a lightweight modlist designed to give an enhanced graphical presentation that keeps the spirit of Skyrim's aesthetic and provide a cohesive lightweight gameplay overhaul with an optional survival component using Survival Mode and optional full Creation Club integration with a few carefully selected additional quests, new lands, and optional companions included. Journey is designed to look and run beautifully, even on lower end systems.",
+    "description": "Journey is a lightweight modlist designed to keep the spirit of Skyrim's aesthetic while giving an enhanced graphical presentation and provide a cohesive lightweight gameplay overhaul. Included are a carefully selected set of additional quests, new lands, and optional companions, survival mode component and Creation Club integration. Journey is designed to look and run beautifully, even on lower end systems.",
     "author": "SiraMirai",
     "maintainers": [
       "github/SiraMirai",
