@@ -220,20 +220,20 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/SiraMirai/journey/main/images/Journey169v3.webp",
       "readme": "https://github.com/SiraMirai/journey/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Journey.wabbajack_68d9ff8b-c0ee-4c5c-bcfc-92abf08b4bd1",
+      "download": "https://authored-files.wabbajack.org/Journey.wabbajack_813b7e3a-9b9f-40f5-97da-990014fb3904",
       "machineURL": "journey",
       "discordURL": "https://discord.gg/DffHKcszfg"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "kczl9bxmpnA=",
-      "Size": 144769076,
-      "NumberOfArchives": 625,
-      "SizeOfArchives": 73930188875,
-      "NumberOfInstalledFiles": 68871,
-      "SizeOfInstalledFiles": 94162959126
+      "Hash": "dCgY529HoBg=",
+      "Size": 144742572,
+      "NumberOfArchives": 633,
+      "SizeOfArchives": 74064523064,
+      "NumberOfInstalledFiles": 69029,
+      "SizeOfInstalledFiles": 94238840602
     },
-    "version": "1.0.2",
+    "version": "1.0.3",
     "RepositoryName": ""
   }
 ]
