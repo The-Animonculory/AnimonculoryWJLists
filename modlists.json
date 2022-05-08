@@ -82,7 +82,7 @@
     "version": "1.4",
     "RepositoryName": ""
   },
-    {
+  {
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Relics of Hyrule - GAT Edition",
     "description": "The goal of this modlist is to be something fun and different rather than your 100th enai-survival-rim playthrough. This modlist primarily revolves around Relics of Hyrule and Grand Admiral Thrawn with new monsters coming from a heavily modified version of Rogue-Like Encounters.",
@@ -144,20 +144,20 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/chri3i/Ruvaak-Readme/main/.github/RuvaakTitleAdjusted.webp",
       "readme": "https://raw.githubusercontent.com/chri3i/Ruvaak-Readme/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Ruvaak.wabbajack_de0e17c2-4a7f-4e19-b4a8-ad50ce55677f",
+      "download": "https://authored-files.wabbajack.org/Ruvaak.wabbajack_6d8e4f1e-bc43-4acf-acfb-7edf229cd187",
       "machineURL": "ruvaak",
       "discordURL": "https://discord.gg/DffHKcszfg"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "4Q+o8Lg9bAo=",
-      "Size": 116473927,
-      "NumberOfArchives": 1170,
-      "SizeOfArchives": 85391108837,
-      "NumberOfInstalledFiles": 118537,
-      "SizeOfInstalledFiles": 129585722068
+      "Hash": "8+iIeR5KM0s=",
+      "Size": 122161189,
+      "NumberOfArchives": 1290,
+      "SizeOfArchives": 81862524080,
+      "NumberOfInstalledFiles": 118359,
+      "SizeOfInstalledFiles": 120442183593
     },
-    "version": "2.0.0.1",
+    "version": "2.1.1.0",
     "RepositoryName": ""
   }
 ]
