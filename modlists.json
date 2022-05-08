@@ -26,20 +26,20 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Althro/Tinvaak2/main/.github/T2Banner.webp",
       "readme": "https://raw.githubusercontent.com/Althro/Tinvaak2/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Tinvaak.wabbajack_ecb2dd57-0ec9-4fd7-ae7e-f9abc3b525bc/",
+      "download": "https://authored-files.wabbajack.org/Tinvaak.wabbajack_279f248d-e223-43f4-a997-ff45c7e3b0d8",
       "machineURL": "tinvaak",
       "discordURL": "https://discord.gg/DffHKcszfg"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "FQU0V4938cU=",
-      "Size": 706115177,
-      "NumberOfArchives": 1309,
-      "SizeOfArchives": 81849407614,
-      "NumberOfInstalledFiles": 155104,
-      "SizeOfInstalledFiles": 141819433688
+      "Hash": "EF5uAGSijiM=",
+      "Size": 1353319494,
+      "NumberOfArchives": 1319,
+      "SizeOfArchives": 82091464765,
+      "NumberOfInstalledFiles": 144218,
+      "SizeOfInstalledFiles": 135151744515
     },
-    "version": "2.3.2",
+    "version": "2.4",
     "RepositoryName": ""
   },
   {
