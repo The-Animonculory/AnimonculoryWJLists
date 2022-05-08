@@ -66,20 +66,20 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/The-Animonculory/Animonculory-Visual-Overhaul/main/.github/AVODaveRiftenBanner.webp",
       "readme": "https://raw.githubusercontent.com/The-Animonculory/Animonculory-Visual-Overhaul/main/Readme.md",
-      "download": "https://authored-files.wabbajack.org/Animonculory%20Visual%20Overhaul.wabbajack_19c00048-aecd-4974-aaab-d74b5b60f219/",
+      "download": "https://authored-files.wabbajack.org/Animonculory Visual Overhaul.wabbajack_a23e758e-3ed0-4845-8c6f-e00b5c495dff",
       "machineURL": "AVO",
       "discordURL": "https://discord.gg/DffHKcszfg"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "KJZJSadwvfE=",
-      "Size": 104445849,
-      "NumberOfArchives": 580,
-      "SizeOfArchives": 48892475108,
-      "NumberOfInstalledFiles": 65856,
-      "SizeOfInstalledFiles": 64548661949
+      "Hash": "woPp1m4PCNo=",
+      "Size": 80417303,
+      "NumberOfArchives": 581,
+      "SizeOfArchives": 49381824022,
+      "NumberOfInstalledFiles": 65819,
+      "SizeOfInstalledFiles": 64481447926
     },
-    "version": "1.4",
+    "version": "1.4.1",
     "RepositoryName": ""
   },
   {
