@@ -45,11 +45,53 @@
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Animonculory Visual Overhaul",
-    "description": "Animonculory Visual Overhaul (AVO) is designed as a base for your own modlist. Featuring graphical enhancements, mandatory bug fixes and tweaks and method patching, it is the perfect base to build upon.",
+    "description": "Animonculory Visual Overhaul is the perfect base to build your list on. Featuring a complete graphical suite, custom method patching and all the fixes you need, you can either just plug-in and play or mod it to your hearts content.",
     "author": "Althro",
     "maintainers": [
       "althro",
-      "github/Althro"
+      "github/Althro",
+      "github/chri3i"
+    ],
+    "game": "skyrimspecialedition",
+    "official": false,
+    "tags": [
+      "Official",
+      "Visuals Only",
+      "NeverNude"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/The-Animonculory/Animonculory-Visual-Overhaul/main/.github/AVOLogo.webp",
+      "readme": "https://raw.githubusercontent.com/The-Animonculory/Animonculory-Visual-Overhaul/main/Readme.md",
+      "download": "https://authored-files.wabbajack.org/AVO.wabbajack_c7e1417e-c3e7-42a9-b8f7-75ad1f376209/",
+      "machineURL": "AVO",
+      "discordURL": "https://discord.gg/DffHKcszfg"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "pnnJR5m07mE=",
+      "Size": 74506671,
+      "NumberOfArchives": 633,
+      "SizeOfArchives": 53355998317,
+      "NumberOfInstalledFiles": 92158,
+      "SizeOfInstalledFiles": 76598807820
+    },
+    "version": "2.0",
+    "RepositoryName": ""
+  },
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Animonculory Visual Overhaul - Anniversary Edition",
+    "description": "Updated to utilise the full Anniversary Edition update, Animonculory Visual Overhaul is the perfect base to build your list on. Featuring a complete graphical suite, custom method patching and all the fixes you need, you can either just plug-in and play or mod it to your hearts content.",
+    "author": "Althro & Styyx",
+    "maintainers": [
+      "althro",
+      "github/Althro",
+      "github/chri3i"
     ],
     "game": "skyrimspecialedition",
     "official": false,
@@ -64,22 +106,22 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/The-Animonculory/Animonculory-Visual-Overhaul/main/.github/AVODaveRiftenBanner.webp",
-      "readme": "https://raw.githubusercontent.com/The-Animonculory/Animonculory-Visual-Overhaul/main/Readme.md",
-      "download": "https://authored-files.wabbajack.org/Animonculory Visual Overhaul.wabbajack_a23e758e-3ed0-4845-8c6f-e00b5c495dff",
-      "machineURL": "AVO",
+      "image": "https://raw.githubusercontent.com/The-Animonculory/Animonculory-Visual-Overhaul/main/.github/AVOLogo.webp",
+      "readme": "https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/AEReadme.md",
+      "download": "https://authored-files.wabbajack.org/AVO-AE.wabbajack_3a06e5bd-6059-4a8a-b0fa-c5baeb0780b7/",
+      "machineURL": "AVOAE",
       "discordURL": "https://discord.gg/DffHKcszfg"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "woPp1m4PCNo=",
-      "Size": 80417303,
-      "NumberOfArchives": 581,
-      "SizeOfArchives": 49381824022,
-      "NumberOfInstalledFiles": 65819,
-      "SizeOfInstalledFiles": 64481447926
+      "Hash": "pnnJR5m07mE=",
+      "Size": 74506671,
+      "NumberOfArchives": 633,
+      "SizeOfArchives": 53355998317,
+      "NumberOfInstalledFiles": 92158,
+      "SizeOfInstalledFiles": 76598807820
     },
-    "version": "1.4.1",
+    "version": "2.0",
     "RepositoryName": ""
   },
   {
