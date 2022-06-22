@@ -147,18 +147,18 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/lexcia98/rge/master/rge.webp",
       "readme": "https://raw.githubusercontent.com/lexcia98/rge/master/README.md",
-      "download": "https://authored-files.wabbajack.org/Relics%20of%20Hyrule%20-%20GAT%20Edition.wabbajack_666cf271-fa0a-45c5-9a63-20e136ebb501/",
+      "download": "https://authored-files.wabbajack.org/Relics%20of%20Hyrule%20-%20GAT%20Edition.wabbajack_81db6916-9df4-4cd1-b86b-b9bb10e374da",
       "machineURL": "rge",
       "discordURL": "https://discord.gg/DffHKcszfg"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "4M6589+wz7c=",
-      "Size": 107102632669,
-      "NumberOfArchives": 947,
-      "SizeOfArchives": 107087881112,
-      "NumberOfInstalledFiles": 192590,
-      "SizeOfInstalledFiles": 144650543628
+      "Hash": "dDUhnX007GY=",
+      "Size": 1256279036,
+      "NumberOfArchives": 946,
+      "SizeOfArchives": 107089268196,
+      "NumberOfInstalledFiles": 192589,
+      "SizeOfInstalledFiles": 144650543654
     },
     "version": "2.3.7.1",
     "RepositoryName": ""
