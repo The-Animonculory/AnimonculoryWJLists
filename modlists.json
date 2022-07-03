@@ -239,5 +239,46 @@
     },
     "version": "1.2",
     "RepositoryName": ""
-  }
+  },
+  {
+	"$type": "ModListMetadata, Wabbajack.Lib",
+	"title": "Krahven",
+	"description": "A roleplay-centered AE modlist with player-friendly survival elements and an injury system, designed for those who enjoy a balance between challenge and an ease of exploration. The economy is harsher, the leveling framework revamped, and new creatures and enemy variants are scattered across the land. Almost all aspects of Skyrim AE have been touched in one way or another in a way that enhances the gameplay experience.",
+	"author": "DestinySlayer96",
+	"maintainers": [
+		"github/DestinySlayer96",
+    "github/Althro"
+	],
+	"game": "skyrimspecialedition",
+	"official": false,
+	"tags": [
+		"Official",
+		"Survival",
+		"Creation Club",
+		"NeverNude"
+	],
+	"nsfw": false,
+	"utility_list": false,
+	"image_contains_title": true,
+	"force_down": false,
+	"links": {
+		"$type": "Links, Wabbajack.Lib",
+		"image": "https://raw.githubusercontent.com/DestinySlayer96/Krahven/main/Krahven.png",
+		"readme": "https://raw.githubusercontent.com/DestinySlayer96/Krahven/main/README.md",
+		"download": "https://authored-files.wabbajack.org/Krahven.wabbajack_1d3c2488-c55e-49af-a2b3-bdb9915be39d/",
+		"machineURL": "Krahven",
+		"discordURL": "https://discord.gg/DffHKcszfg"
+	},
+	"download_metadata": {
+		"$type": "DownloadMetadata, Wabbajack.Lib",
+		"Hash": "+aoyIuhnN6k=",
+		"Size": 57988458,
+		"NumberOfArchives": 994,
+		"SizeOfArchives": 88120921540,
+		"NumberOfInstalledFiles": 104103,
+		"SizeOfInstalledFiles": 144188007087
+	},
+	"version": "1.0",
+	"RepositoryName": ""
+}
 ]
