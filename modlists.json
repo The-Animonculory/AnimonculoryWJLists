@@ -67,20 +67,20 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/The-Animonculory/Animonculory-Visual-Overhaul/main/.github/AVOLogo.webp",
       "readme": "https://raw.githubusercontent.com/The-Animonculory/Animonculory-Visual-Overhaul/main/Readme.md",
-      "download": "https://authored-files.wabbajack.org/AVO.wabbajack_baaaeaa8-3028-4113-a83a-a8c9ba6435dd/",
+      "download": "https://authored-files.wabbajack.org/AVO.wabbajack_9fe59d81-a3ae-43d1-91a6-05020eda395a/",
       "machineURL": "AVO",
       "discordURL": "https://discord.gg/DffHKcszfg"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "r/A2sQbKv3Y=",
-      "Size": 74517520,
-      "NumberOfArchives": 638,
-      "SizeOfArchives": 53788732767,
-      "NumberOfInstalledFiles": 91463,
-      "SizeOfInstalledFiles": 76274760493
+      "Hash": "Vftph94bZHE=",
+      "Size": 79867818,
+      "NumberOfArchives": 617,
+      "SizeOfArchives": 53929121869,
+      "NumberOfInstalledFiles": 77395,
+      "SizeOfInstalledFiles": 71466114407
     },
-    "version": "2.0.1",
+    "version": "2.1",
     "RepositoryName": ""
   },
   {
@@ -107,22 +107,22 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/The-Animonculory/Animonculory-Visual-Overhaul/main/.github/AVOAELogo.webp",
+      "image": "https://raw.githubusercontent.com/The-Animonculory/Animonculory-Visual-Overhaul/main/.github/AVOAENewLogo.webp",
       "readme": "https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/AEReadme.md",
-      "download": "https://authored-files.wabbajack.org/AVO-AE.wabbajack_cdc066b2-1771-427e-bd87-0a27b02e9375/",
+      "download": "https://authored-files.wabbajack.org/AVO-AE.wabbajack_4c8da9dc-8cfa-421b-9b15-075c0db8e25c/",
       "machineURL": "AVOAE",
       "discordURL": "https://discord.gg/DffHKcszfg"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "m4a3yGcLHc4=",
-      "Size": 88392812,
-      "NumberOfArchives": 801,
-      "SizeOfArchives": 62723457195,
-      "NumberOfInstalledFiles": 95835,
-      "SizeOfInstalledFiles": 88785297889
+      "Hash": "8oGudfXuI8M=",
+      "Size": 96923433,
+      "NumberOfArchives": 776,
+      "SizeOfArchives": 62558075771,
+      "NumberOfInstalledFiles": 81585,
+      "SizeOfInstalledFiles": 83347003428
     },
-    "version": "2.0.1",
+    "version": "2.1",
     "RepositoryName": ""
   },
   {
