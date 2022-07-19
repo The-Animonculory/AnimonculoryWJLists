@@ -125,6 +125,46 @@
     "version": "2.1",
     "RepositoryName": ""
   },
+{
+  "$type": "ModListMetadata, Wabbajack.Lib",
+  "title": "Animonculory Dev Tools",
+  "description": "Animonculory Dev Tools (ADT) is designed to function as a base for testing mods and, should you choose to, building your list off of. It features mandatory DLL level fixes, a few tweaks, and all the tools you need pre-configured to work out of the box.",
+  "author": "Althro",
+  "maintainers": [
+    "althro",
+    "github/Althro",
+    "github/chri3i"
+  ],
+  "game": "skyrimspecialedition",
+  "official": false,
+  "tags": [
+    "Official",
+    "Utility"
+  ],
+  "nsfw": false,
+  "utility_list": true,
+  "image_contains_title": true,
+  "force_down": false,
+  "links": {
+    "$type": "Links, Wabbajack.Lib",
+    "image": "https://raw.githubusercontent.com/The-Animonculory/ADT/main/.github/ADTBanner.webp",
+    "readme": "https://raw.githubusercontent.com/The-Animonculory/ADT/main/README.md",
+    "download": "https://authored-files.wabbajack.org/ADT.wabbajack_214717f7-fefc-415f-bd33-8b1e23bdd196/",
+    "machineURL": "ADT",
+    "discordURL": "https://discord.gg/DffHKcszfg"
+  },
+  "download_metadata": {
+    "$type": "DownloadMetadata, Wabbajack.Lib",
+    "Hash": "H1/rgFuQctU=",
+    "Size": 21473828,
+    "NumberOfArchives": 123,
+    "SizeOfArchives": 10936114159,
+    "NumberOfInstalledFiles": 18491,
+    "SizeOfInstalledFiles": 12840059603
+  },
+  "version": "0.3",
+  "RepositoryName": ""
+},
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Relics of Hyrule - GAT Edition",
