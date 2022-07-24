@@ -125,46 +125,46 @@
     "version": "2.1",
     "RepositoryName": ""
   },
-{
-  "$type": "ModListMetadata, Wabbajack.Lib",
-  "title": "Animonculory Dev Tools",
-  "description": "Animonculory Dev Tools (ADT) is designed to function as a base for testing mods and, should you choose to, building your list off of. It features mandatory DLL level fixes, a few tweaks, and all the tools you need pre-configured to work out of the box.",
-  "author": "Althro",
-  "maintainers": [
-    "althro",
-    "github/Althro",
-    "github/chri3i"
-  ],
-  "game": "skyrimspecialedition",
-  "official": false,
-  "tags": [
-    "Official",
-    "Utility"
-  ],
-  "nsfw": false,
-  "utility_list": true,
-  "image_contains_title": true,
-  "force_down": false,
-  "links": {
-    "$type": "Links, Wabbajack.Lib",
-    "image": "https://raw.githubusercontent.com/The-Animonculory/ADT/main/.github/ADTBanner.webp",
-    "readme": "https://raw.githubusercontent.com/The-Animonculory/ADT/main/README.md",
-    "download": "https://authored-files.wabbajack.org/ADT.wabbajack_214717f7-fefc-415f-bd33-8b1e23bdd196/",
-    "machineURL": "ADT",
-    "discordURL": "https://discord.gg/DffHKcszfg"
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Animonculory Dev Tools",
+    "description": "Animonculory Dev Tools (ADT) is designed to function as a base for testing mods and, should you choose to, building your list off of. It features mandatory DLL level fixes, a few tweaks, and all the tools you need pre-configured to work out of the box.",
+    "author": "Althro",
+    "maintainers": [
+      "althro",
+      "github/Althro",
+      "github/chri3i"
+    ],
+    "game": "skyrimspecialedition",
+    "official": false,
+    "tags": [
+      "Official",
+      "Utility"
+    ],
+    "nsfw": false,
+    "utility_list": true,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/The-Animonculory/ADT/main/.github/ADTBanner.webp",
+      "readme": "https://raw.githubusercontent.com/The-Animonculory/ADT/main/README.md",
+      "download": "https://authored-files.wabbajack.org/ADT.wabbajack_214717f7-fefc-415f-bd33-8b1e23bdd196/",
+      "machineURL": "ADT",
+      "discordURL": "https://discord.gg/DffHKcszfg"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "H1/rgFuQctU=",
+      "Size": 21473828,
+      "NumberOfArchives": 123,
+      "SizeOfArchives": 10936114159,
+      "NumberOfInstalledFiles": 18491,
+      "SizeOfInstalledFiles": 12840059603
+    },
+    "version": "0.3",
+    "RepositoryName": ""
   },
-  "download_metadata": {
-    "$type": "DownloadMetadata, Wabbajack.Lib",
-    "Hash": "H1/rgFuQctU=",
-    "Size": 21473828,
-    "NumberOfArchives": 123,
-    "SizeOfArchives": 10936114159,
-    "NumberOfInstalledFiles": 18491,
-    "SizeOfInstalledFiles": 12840059603
-  },
-  "version": "0.3",
-  "RepositoryName": ""
-},
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Relics of Hyrule - GAT Edition",
@@ -227,20 +227,20 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/chri3i/Ruvaak-Readme/main/.github/RuvaakTitleAdjusted.webp",
       "readme": "https://raw.githubusercontent.com/chri3i/Ruvaak-Readme/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Ruvaak.wabbajack_b2e425ad-e25d-4fe4-a06f-918335e5885c",
+      "download": "https://authored-files.wabbajack.org/Ruvaak.wabbajack_b537aa29-b417-4d95-9c2f-d5770dee396f",
       "machineURL": "ruvaak",
       "discordURL": "https://discord.gg/DffHKcszfg"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "Z6oBVJ5hYDg=",
-      "Size": 163858002,
-      "NumberOfArchives": 1310,
-      "SizeOfArchives": 74922836572,
-      "NumberOfInstalledFiles": 118575,
-      "SizeOfInstalledFiles": 110547916837
+      "Hash": "V0tIxo45z3M=",
+      "Size": 144171786,
+      "NumberOfArchives": 1392,
+      "SizeOfArchives": 87438002045,
+      "NumberOfInstalledFiles": 142151,
+      "SizeOfInstalledFiles": 137968004282
     },
-    "version": "2.3.0.0",
+    "version": "2.5.0.0",
     "RepositoryName": ""
   },
   {
@@ -281,44 +281,44 @@
     "RepositoryName": ""
   },
   {
-	"$type": "ModListMetadata, Wabbajack.Lib",
-	"title": "Krahven",
-	"description": "A roleplay-centered AE modlist with player-friendly survival elements and an injury system, designed for those who enjoy a balance between challenge and an ease of exploration. The economy is harsher, the leveling framework revamped, and new creatures and enemy variants are scattered across the land. Almost all aspects of Skyrim AE have been touched in one way or another in a way that enhances the gameplay experience.",
-	"author": "DestinySlayer96",
-	"maintainers": [
-		"github/DestinySlayer96",
-    "github/Althro"
-	],
-	"game": "skyrimspecialedition",
-	"official": false,
-	"tags": [
-		"Official",
-		"Survival",
-		"Creation Club",
-		"NeverNude"
-	],
-	"nsfw": false,
-	"utility_list": false,
-	"image_contains_title": true,
-	"force_down": false,
-	"links": {
-		"$type": "Links, Wabbajack.Lib",
-		"image": "https://raw.githubusercontent.com/DestinySlayer96/Krahven/main/Krahven.png",
-		"readme": "https://raw.githubusercontent.com/DestinySlayer96/Krahven/main/README.md",
-		"download": "https://authored-files.wabbajack.org/Krahven.wabbajack_1d3c2488-c55e-49af-a2b3-bdb9915be39d/",
-		"machineURL": "Krahven",
-		"discordURL": "https://discord.gg/DffHKcszfg"
-	},
-	"download_metadata": {
-		"$type": "DownloadMetadata, Wabbajack.Lib",
-		"Hash": "+aoyIuhnN6k=",
-		"Size": 57988458,
-		"NumberOfArchives": 994,
-		"SizeOfArchives": 88120921540,
-		"NumberOfInstalledFiles": 104103,
-		"SizeOfInstalledFiles": 144188007087
-	},
-	"version": "1.0",
-	"RepositoryName": ""
-}
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Krahven",
+    "description": "A roleplay-centered AE modlist with player-friendly survival elements and an injury system, designed for those who enjoy a balance between challenge and an ease of exploration. The economy is harsher, the leveling framework revamped, and new creatures and enemy variants are scattered across the land. Almost all aspects of Skyrim AE have been touched in one way or another in a way that enhances the gameplay experience.",
+    "author": "DestinySlayer96",
+    "maintainers": [
+      "github/DestinySlayer96",
+      "github/Althro"
+    ],
+    "game": "skyrimspecialedition",
+    "official": false,
+    "tags": [
+      "Official",
+      "Survival",
+      "Creation Club",
+      "NeverNude"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/DestinySlayer96/Krahven/main/Krahven.png",
+      "readme": "https://raw.githubusercontent.com/DestinySlayer96/Krahven/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Krahven.wabbajack_1d3c2488-c55e-49af-a2b3-bdb9915be39d/",
+      "machineURL": "Krahven",
+      "discordURL": "https://discord.gg/DffHKcszfg"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "+aoyIuhnN6k=",
+      "Size": 57988458,
+      "NumberOfArchives": 994,
+      "SizeOfArchives": 88120921540,
+      "NumberOfInstalledFiles": 104103,
+      "SizeOfInstalledFiles": 144188007087
+    },
+    "version": "1.0",
+    "RepositoryName": ""
+  }
 ]
