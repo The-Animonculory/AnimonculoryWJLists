@@ -128,7 +128,7 @@
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Animonculory Dev Tools",
-    "description": "Animonculory Dev Tools (ADT) is designed to function as a base for testing mods and, should you choose to, building your list off of. It features mandatory DLL level fixes, a few tweaks, and all the tools you need pre-configured to work out of the box.",
+    "description": "Designed as the mod author's tool kit, Animonculory Dev Tools comes with all the tools you need to create and test your mods. Featuring mandatory DLL level fixes & libraries to build your own with, a fully patched Creation Kit for 1.6.xx and a few tweaks, it's the ideal playground to both work and build on.",
     "author": "Althro",
     "maintainers": [
       "althro",
@@ -155,14 +155,14 @@
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "H1/rgFuQctU=",
-      "Size": 21473828,
-      "NumberOfArchives": 123,
-      "SizeOfArchives": 10936114159,
-      "NumberOfInstalledFiles": 18491,
-      "SizeOfInstalledFiles": 12840059603
+      "Hash": "fowJ/rav/oc=",
+      "Size": 21908122,
+      "NumberOfArchives": 137,
+      "SizeOfArchives": 11127239214,
+      "NumberOfInstalledFiles": 35518,
+      "SizeOfInstalledFiles": 13401442395
     },
-    "version": "0.3",
+    "version": "1.0",
     "RepositoryName": ""
   },
   {
