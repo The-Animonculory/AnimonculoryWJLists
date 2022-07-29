@@ -155,14 +155,14 @@
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "fowJ/rav/oc=",
-      "Size": 21908122,
-      "NumberOfArchives": 137,
-      "SizeOfArchives": 11127239214,
-      "NumberOfInstalledFiles": 35518,
-      "SizeOfInstalledFiles": 13401442395
+      "Hash": "tNrbXsg/Ki0=",
+      "Size": 22665014,
+      "NumberOfArchives": 136,
+      "SizeOfArchives": 11129083698,
+      "NumberOfInstalledFiles": 35463,
+      "SizeOfInstalledFiles": 13405484313
     },
-    "version": "1.0",
+    "version": "1.1",
     "RepositoryName": ""
   },
   {
