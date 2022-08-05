@@ -1,324 +1,321 @@
-[
-  {
-    "$type": "ModListMetadata, Wabbajack.Lib",
-    "title": "Tinvaak",
-    "description": "The premier roleplaying list for Skyrim SE, Tinvaak is a list focused on making Skyrim: Special Edition (SSE) into an actual roleplaying game. Many new mechanics and changes are present to offer an alternate take on the game.",
-    "author": "The Animonculory",
-    "maintainers": [
-      "althro",
-      "github/Althro"
-    ],
-    "game": "skyrimspecialedition",
-    "official": false,
-    "tags": [
-      "Official",
-      "Survival",
-      "Hardcore",
-      "SkySa",
-      "Roleplay",
-      "NeverNude"
-    ],
-    "nsfw": false,
-    "utility_list": false,
-    "image_contains_title": true,
-    "force_down": false,
-    "links": {
-      "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/Althro/Tinvaak2/main/.github/T2Banner.webp",
-      "readme": "https://raw.githubusercontent.com/Althro/Tinvaak2/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Tinvaak.wabbajack_420eb993-8926-4fe3-a96b-637650187089/",
-      "machineURL": "tinvaak",
-      "discordURL": "https://discord.gg/DffHKcszfg"
-    },
-    "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "dfV9X9RQnts=",
-      "Size": 722219064,
-      "NumberOfArchives": 1322,
-      "SizeOfArchives": 81562567927,
-      "NumberOfInstalledFiles": 131022,
-      "SizeOfInstalledFiles": 132768298104
-    },
-    "version": "2.4.1",
-    "RepositoryName": ""
-  },
-  {
-    "$type": "ModListMetadata, Wabbajack.Lib",
-    "title": "Animonculory Visual Overhaul",
-    "description": "Animonculory Visual Overhaul is the perfect base to build your list on. Featuring a complete graphical suite, custom method patching and all the fixes you need, you can either just plug-in and play or mod it to your hearts content.",
-    "author": "Althro",
-    "maintainers": [
-      "althro",
-      "github/Althro",
-      "github/chri3i"
-    ],
-    "game": "skyrimspecialedition",
-    "official": false,
-    "tags": [
-      "Official",
-      "Visuals Only",
-      "NeverNude"
-    ],
-    "nsfw": false,
-    "utility_list": false,
-    "image_contains_title": true,
-    "force_down": false,
-    "links": {
-      "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/The-Animonculory/Animonculory-Visual-Overhaul/main/.github/AVOLogo.webp",
-      "readme": "https://raw.githubusercontent.com/The-Animonculory/Animonculory-Visual-Overhaul/main/Readme.md",
-      "download": "https://authored-files.wabbajack.org/AVO.wabbajack_7ca7dfd7-a106-4ded-be2b-05189549adf8/",
-      "machineURL": "AVO",
-      "discordURL": "https://discord.gg/DffHKcszfg"
-    },
-    "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "Vftph94bZHE=",
-      "Size": 79867818,
-      "NumberOfArchives": 617,
-      "SizeOfArchives": 53929121869,
-      "NumberOfInstalledFiles": 77395,
-      "SizeOfInstalledFiles": 71466114407
-    },
-    "version": "2.1",
-    "RepositoryName": ""
-  },
-  {
-    "$type": "ModListMetadata, Wabbajack.Lib",
-    "title": "Animonculory Visual Overhaul - Anniversary Edition",
-    "description": "Updated to utilise the full Anniversary Edition update, Animonculory Visual Overhaul is the perfect base to build your list on. Featuring a complete graphical suite, custom method patching and all the fixes you need, you can either just plug-in and play or mod it to your hearts content.",
-    "author": "Althro & Styyx",
-    "maintainers": [
-      "althro",
-      "github/Althro",
-      "github/chri3i"
-    ],
-    "game": "skyrimspecialedition",
-    "official": false,
-    "tags": [
-      "Official",
-      "Visuals Only",
-      "Creation Club",
-      "NeverNude"
-    ],
-    "nsfw": false,
-    "utility_list": false,
-    "image_contains_title": true,
-    "force_down": false,
-    "links": {
-      "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/The-Animonculory/Animonculory-Visual-Overhaul/main/.github/AVOAENewLogo.webp",
-      "readme": "https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/AEReadme.md",
-      "download": "https://authored-files.wabbajack.org/AVO-AE.wabbajack_e4754c1b-b6ba-4c9e-9e4e-ff095532bd58/",
-      "machineURL": "AVOAE",
-      "discordURL": "https://discord.gg/DffHKcszfg"
-    },
-    "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "8oGudfXuI8M=",
-      "Size": 96923433,
-      "NumberOfArchives": 776,
-      "SizeOfArchives": 62558075771,
-      "NumberOfInstalledFiles": 81585,
-      "SizeOfInstalledFiles": 83347003428
-    },
-    "version": "2.1",
-    "RepositoryName": ""
-  },
-  {
-    "$type": "ModListMetadata, Wabbajack.Lib",
-    "title": "Animonculory Dev Tools",
-    "description": "Designed as the mod author's tool kit, Animonculory Dev Tools comes with all the tools you need to create and test your mods. Featuring mandatory DLL level fixes & libraries to build your own with, a fully patched Creation Kit for 1.6.xx and a few tweaks, it's the ideal playground to both work and build on.",
-    "author": "Althro",
-    "maintainers": [
-      "althro",
-      "github/Althro",
-      "github/chri3i"
-    ],
-    "game": "skyrimspecialedition",
-    "official": false,
-    "tags": [
-      "Official",
-      "Utility"
-    ],
-    "nsfw": false,
-    "utility_list": true,
-    "image_contains_title": true,
-    "force_down": false,
-    "links": {
-      "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/The-Animonculory/ADT/main/.github/ADTBanner.webp",
-      "readme": "https://raw.githubusercontent.com/The-Animonculory/ADT/main/README.md",
-      "download": "https://authored-files.wabbajack.org/ADT.wabbajack_d0ca8234-aef8-4aa7-aa4d-8a294c1ef884/",
-      "machineURL": "ADT",
-      "discordURL": "https://discord.gg/DffHKcszfg"
-    },
-    "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "tNrbXsg/Ki0=",
-      "Size": 22665014,
-      "NumberOfArchives": 136,
-      "SizeOfArchives": 11129083698,
-      "NumberOfInstalledFiles": 35463,
-      "SizeOfInstalledFiles": 13405484313
-    },
-    "version": "1.1",
-    "RepositoryName": ""
-  },
-  {
-    "$type": "ModListMetadata, Wabbajack.Lib",
-    "title": "Relics of Hyrule - GAT Edition",
-    "description": "The goal of this modlist is to be something fun and different rather than your 100th enai-survival-rim playthrough. This modlist primarily revolves around Relics of Hyrule and Grand Admiral Thrawn with new monsters coming from a heavily modified version of Rogue-Like Encounters.",
-    "author": "jdsmith2816, maintained by Fantastigasmical Alice",
-    "maintainers": [
-      "jdsmith",
-      "fantastigasmical_alice"
-    ],
-    "game": "skyrimspecialedition",
-    "official": false,
-    "tags": [
-      "Official"
-    ],
-    "nsfw": false,
-    "utility_list": false,
-    "image_contains_title": true,
-    "force_down": false,
-    "links": {
-      "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/lexcia98/rge/master/rge.webp",
-      "readme": "https://raw.githubusercontent.com/lexcia98/rge/master/README.md",
-      "download": "https://authored-files.wabbajack.org/Relics%20of%20Hyrule%20-%20GAT%20Edition.wabbajack_9fd2921b-29d7-4213-aabd-8b3da170c42f",
-      "machineURL": "rge",
-      "discordURL": "https://discord.gg/DffHKcszfg"
-    },
-    "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "8dXkTSBMRB8=",
-      "Size": 1238916444,
-      "NumberOfArchives": 947,
-      "SizeOfArchives": 107117829960,
-      "NumberOfInstalledFiles": 192907,
-      "SizeOfInstalledFiles": 144617147845
-    },
-    "version": "2.3.7.3",
-    "RepositoryName": ""
-  },
-  {
-    "$type": "ModListMetadata, Wabbajack.Lib",
-    "title": "Ruvaak",
-    "description": "Ruvaak is a list focused on making Skyrim: Anniversary Edition (AE) into a dark fantasy roleplaying game. Many new mechanics and changes are present to offer an alternate take on the game.",
-    "author": "Styyx",
-    "maintainers": [
-      "github/chri3i",
-      "Styyx"
-    ],
-    "game": "skyrimspecialedition",
-    "official": true,
-    "tags": [
-      "Official",
-      "NeverNude",
-      "ABR"
-    ],
-    "nsfw": false,
-    "utility_list": false,
-    "image_contains_title": true,
-    "force_down": false,
-    "links": {
-      "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/chri3i/Ruvaak-Readme/main/.github/RuvaakTitleNewAdjusted.webp",
-      "readme": "https://raw.githubusercontent.com/chri3i/Ruvaak-Readme/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Ruvaak.wabbajack_d74016b1-068a-4a47-ad2b-f67ea240611d",
-      "machineURL": "ruvaak",
-      "discordURL": "https://discord.gg/DffHKcszfg"
-    },
-    "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "U02jSkhfqH0=",
-      "Size": 146371625,
-      "NumberOfArchives": 1390,
-      "SizeOfArchives": 87424780259,
-      "NumberOfInstalledFiles": 142171,
-      "SizeOfInstalledFiles": 137967949052
-    },
-    "version": "2.5.0.1",
-    "RepositoryName": ""
-  },
-  {
-    "$type": "ModListMetadata, Wabbajack.Lib",
-    "title": "Box of Rockets",
-    "description": "A Kerbal Space Program mod list that adds all the parts you could ever want, all integrated into the Community Tech Tree so you can explore the Galaxies Unbound planets!",
-    "author": "LaughingHyena",
-    "maintainers": [
-      "laughinghyena"
-    ],
-    "game": "kerbalspaceprogram",
-    "official": false,
-    "tags": [
-      "Official"
-    ],
-    "nsfw": false,
-    "utility_list": false,
-    "image_contains_title": false,
-    "force_down": false,
-    "links": {
-      "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/LaughingHyena279/BoxOfRockets/main/kerbal_centrifuge_training_by_timmon26_d5g7dkr.jpg.74803b68ceb0fcafe450403c6af93139.thumb.jpg.13fff86622b4d3715e64e573b0483946.png",
-      "readme": "https://raw.githubusercontent.com/LaughingHyena279/BoxOfRockets/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Box of Rockets.wabbajack_346d4418-a5ae-4901-8920-18827c396e1f",
-      "machineURL": "BOR",
-      "discordURL": "https://discord.gg/DffHKcszfg"
-    },
-    "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "WNvc+Q90auY=",
-      "Size": 638114,
-      "NumberOfArchives": 61,
-      "SizeOfArchives": 4210584544,
-      "NumberOfInstalledFiles": 14644,
-      "SizeOfInstalledFiles": 8305206266
-    },
-    "version": "1.2",
-    "RepositoryName": ""
-  },
-  {
-    "$type": "ModListMetadata, Wabbajack.Lib",
-    "title": "Krahven",
-    "description": "A roleplay-centered AE modlist with player-friendly survival elements and an injury system, designed for those who enjoy a balance between challenge and an ease of exploration. The economy is harsher, the leveling framework revamped, and new creatures and enemy variants are scattered across the land. Almost all aspects of Skyrim AE have been touched in one way or another in a way that enhances the gameplay experience.",
-    "author": "DestinySlayer96",
-    "maintainers": [
-      "github/DestinySlayer96",
-      "github/Althro"
-    ],
-    "game": "skyrimspecialedition",
-    "official": false,
-    "tags": [
-      "Official",
-      "Survival",
-      "Creation Club",
-      "NeverNude"
-    ],
-    "nsfw": false,
-    "utility_list": false,
-    "image_contains_title": true,
-    "force_down": false,
-    "links": {
-      "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/DestinySlayer96/Krahven/main/Krahven.png",
-      "readme": "https://raw.githubusercontent.com/DestinySlayer96/Krahven/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Krahven.wabbajack_1d3c2488-c55e-49af-a2b3-bdb9915be39d/",
-      "machineURL": "Krahven",
-      "discordURL": "https://discord.gg/DffHKcszfg"
-    },
-    "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "+aoyIuhnN6k=",
-      "Size": 57988458,
-      "NumberOfArchives": 994,
-      "SizeOfArchives": 88120921540,
-      "NumberOfInstalledFiles": 104103,
-      "SizeOfInstalledFiles": 144188007087
-    },
-    "version": "1.0",
-    "RepositoryName": ""
-  }
+[{
+		"$type": "ModListMetadata, Wabbajack.Lib",
+		"title": "Tinvaak",
+		"description": "The premier roleplaying list for Skyrim SE, Tinvaak is a list focused on making Skyrim: Special Edition (SSE) into an actual roleplaying game. Many new mechanics and changes are present to offer an alternate take on the game.",
+		"author": "The Animonculory",
+		"maintainers": [
+			"althro",
+			"github/Althro"
+		],
+		"game": "skyrimspecialedition",
+		"official": false,
+		"tags": [
+			"Official",
+			"Survival",
+			"Hardcore",
+			"SkySa",
+			"Roleplay",
+			"NeverNude"
+		],
+		"nsfw": false,
+		"utility_list": false,
+		"image_contains_title": true,
+		"force_down": false,
+		"links": {
+			"$type": "Links, Wabbajack.Lib",
+			"image": "https://raw.githubusercontent.com/Althro/Tinvaak2/main/.github/T2Banner.webp",
+			"readme": "https://raw.githubusercontent.com/Althro/Tinvaak2/main/README.md",
+			"download": "https://authored-files.wabbajack.org/Tinvaak.wabbajack_420eb993-8926-4fe3-a96b-637650187089/",
+			"machineURL": "tinvaak",
+			"discordURL": "https://discord.gg/DffHKcszfg"
+		},
+		"download_metadata": {
+			"$type": "DownloadMetadata, Wabbajack.Lib",
+			"Hash": "dfV9X9RQnts=",
+			"Size": 722219064,
+			"NumberOfArchives": 1322,
+			"SizeOfArchives": 81562567927,
+			"NumberOfInstalledFiles": 131022,
+			"SizeOfInstalledFiles": 132768298104
+		},
+		"version": "2.4.1",
+		"RepositoryName": ""
+	},
+	{
+		"$type": "ModListMetadata, Wabbajack.Lib",
+		"title": "Animonculory Visual Overhaul",
+		"description": "Animonculory Visual Overhaul is the perfect base to build your list on. Featuring a complete graphical suite, custom method patching and all the fixes you need, you can either just plug-in and play or mod it to your hearts content.",
+		"author": "Althro",
+		"maintainers": [
+			"althro",
+			"github/Althro",
+			"github/chri3i"
+		],
+		"game": "skyrimspecialedition",
+		"official": false,
+		"tags": [
+			"Official",
+			"Visuals Only",
+			"NeverNude"
+		],
+		"nsfw": false,
+		"utility_list": false,
+		"image_contains_title": true,
+		"force_down": false,
+		"links": {
+			"$type": "Links, Wabbajack.Lib",
+			"image": "https://raw.githubusercontent.com/The-Animonculory/Animonculory-Visual-Overhaul/main/.github/AVOLogo.webp",
+			"readme": "https://raw.githubusercontent.com/The-Animonculory/Animonculory-Visual-Overhaul/main/Readme.md",
+			"download": "https://authored-files.wabbajack.org/AVO.wabbajack_7ca7dfd7-a106-4ded-be2b-05189549adf8/",
+			"machineURL": "AVO",
+			"discordURL": "https://discord.gg/DffHKcszfg"
+		},
+		"download_metadata": {
+			"$type": "DownloadMetadata, Wabbajack.Lib",
+			"Hash": "Vftph94bZHE=",
+			"Size": 79867818,
+			"NumberOfArchives": 617,
+			"SizeOfArchives": 53929121869,
+			"NumberOfInstalledFiles": 77395,
+			"SizeOfInstalledFiles": 71466114407
+		},
+		"version": "2.1",
+		"RepositoryName": ""
+	},
+	{
+		"$type": "ModListMetadata, Wabbajack.Lib",
+		"title": "Animonculory Visual Overhaul - Anniversary Edition",
+		"description": "Updated to utilise the full Anniversary Edition update, Animonculory Visual Overhaul is the perfect base to build your list on. Featuring a complete graphical suite, custom method patching and all the fixes you need, you can either just plug-in and play or mod it to your hearts content.",
+		"author": "Althro & Styyx",
+		"maintainers": [
+			"althro",
+			"github/Althro",
+			"github/chri3i"
+		],
+		"game": "skyrimspecialedition",
+		"official": false,
+		"tags": [
+			"Official",
+			"Visuals Only",
+			"Creation Club",
+			"NeverNude"
+		],
+		"nsfw": false,
+		"utility_list": false,
+		"image_contains_title": true,
+		"force_down": false,
+		"links": {
+			"$type": "Links, Wabbajack.Lib",
+			"image": "https://raw.githubusercontent.com/The-Animonculory/Animonculory-Visual-Overhaul/main/.github/AVOAENewLogo.webp",
+			"readme": "https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/AEReadme.md",
+			"download": "https://authored-files.wabbajack.org/AVO-AE.wabbajack_e4754c1b-b6ba-4c9e-9e4e-ff095532bd58/",
+			"machineURL": "AVOAE",
+			"discordURL": "https://discord.gg/DffHKcszfg"
+		},
+		"download_metadata": {
+			"$type": "DownloadMetadata, Wabbajack.Lib",
+			"Hash": "8oGudfXuI8M=",
+			"Size": 96923433,
+			"NumberOfArchives": 776,
+			"SizeOfArchives": 62558075771,
+			"NumberOfInstalledFiles": 81585,
+			"SizeOfInstalledFiles": 83347003428
+		},
+		"version": "2.1",
+		"RepositoryName": ""
+	},
+	{
+		"$type": "ModListMetadata, Wabbajack.Lib",
+		"title": "Animonculory Dev Tools",
+		"description": "Designed as the mod author's tool kit, Animonculory Dev Tools comes with all the tools you need to create and test your mods. Featuring mandatory DLL level fixes & libraries to build your own with, a fully patched Creation Kit for 1.6.xx and a few tweaks, it's the ideal playground to both work and build on.",
+		"author": "Althro",
+		"maintainers": [
+			"althro",
+			"github/Althro",
+			"github/chri3i"
+		],
+		"game": "skyrimspecialedition",
+		"official": false,
+		"tags": [
+			"Official",
+			"Utility"
+		],
+		"nsfw": false,
+		"utility_list": true,
+		"image_contains_title": true,
+		"force_down": false,
+		"links": {
+			"$type": "Links, Wabbajack.Lib",
+			"image": "https://raw.githubusercontent.com/The-Animonculory/ADT/main/.github/ADTBanner.webp",
+			"readme": "https://raw.githubusercontent.com/The-Animonculory/ADT/main/README.md",
+			"download": "https://authored-files.wabbajack.org/ADT.wabbajack_4715032f-b5ed-4c2b-a7f2-62a416fbe934/",
+			"machineURL": "ADT",
+			"discordURL": "https://discord.gg/DffHKcszfg"
+		},
+		"download_metadata": {
+			"$type": "DownloadMetadata, Wabbajack.Lib",
+			"Hash": "HVHwXX16YUI=",
+			"Size": 22682191,
+			"NumberOfArchives": 137,
+			"SizeOfArchives": 11127946913,
+			"NumberOfInstalledFiles": 35474,
+			"SizeOfInstalledFiles": 13396651329
+		}
+	},
+	{
+		"version": "1.2",
+		"RepositoryName": ""
+	}, {
+		"$type": "ModListMetadata, Wabbajack.Lib",
+		"title": "Relics of Hyrule - GAT Edition",
+		"description": "The goal of this modlist is to be something fun and different rather than your 100th enai-survival-rim playthrough. This modlist primarily revolves around Relics of Hyrule and Grand Admiral Thrawn with new monsters coming from a heavily modified version of Rogue-Like Encounters.",
+		"author": "jdsmith2816, maintained by Fantastigasmical Alice",
+		"maintainers": [
+			"jdsmith",
+			"fantastigasmical_alice"
+		],
+		"game": "skyrimspecialedition",
+		"official": false,
+		"tags": [
+			"Official"
+		],
+		"nsfw": false,
+		"utility_list": false,
+		"image_contains_title": true,
+		"force_down": false,
+		"links": {
+			"$type": "Links, Wabbajack.Lib",
+			"image": "https://raw.githubusercontent.com/lexcia98/rge/master/rge.webp",
+			"readme": "https://raw.githubusercontent.com/lexcia98/rge/master/README.md",
+			"download": "https://authored-files.wabbajack.org/Relics%20of%20Hyrule%20-%20GAT%20Edition.wabbajack_9fd2921b-29d7-4213-aabd-8b3da170c42f",
+			"machineURL": "rge",
+			"discordURL": "https://discord.gg/DffHKcszfg"
+		},
+		"download_metadata": {
+			"$type": "DownloadMetadata, Wabbajack.Lib",
+			"Hash": "8dXkTSBMRB8=",
+			"Size": 1238916444,
+			"NumberOfArchives": 947,
+			"SizeOfArchives": 107117829960,
+			"NumberOfInstalledFiles": 192907,
+			"SizeOfInstalledFiles": 144617147845
+		},
+		"version": "2.3.7.3",
+		"RepositoryName": ""
+	}, {
+		"$type": "ModListMetadata, Wabbajack.Lib",
+		"title": "Ruvaak",
+		"description": "Ruvaak is a list focused on making Skyrim: Anniversary Edition (AE) into a dark fantasy roleplaying game. Many new mechanics and changes are present to offer an alternate take on the game.",
+		"author": "Styyx",
+		"maintainers": [
+			"github/chri3i",
+			"Styyx"
+		],
+		"game": "skyrimspecialedition",
+		"official": true,
+		"tags": [
+			"Official",
+			"NeverNude",
+			"ABR"
+		],
+		"nsfw": false,
+		"utility_list": false,
+		"image_contains_title": true,
+		"force_down": false,
+		"links": {
+			"$type": "Links, Wabbajack.Lib",
+			"image": "https://raw.githubusercontent.com/chri3i/Ruvaak-Readme/main/.github/RuvaakTitleNewAdjusted.webp",
+			"readme": "https://raw.githubusercontent.com/chri3i/Ruvaak-Readme/main/README.md",
+			"download": "https://authored-files.wabbajack.org/Ruvaak.wabbajack_d74016b1-068a-4a47-ad2b-f67ea240611d",
+			"machineURL": "ruvaak",
+			"discordURL": "https://discord.gg/DffHKcszfg"
+		},
+		"download_metadata": {
+			"$type": "DownloadMetadata, Wabbajack.Lib",
+			"Hash": "U02jSkhfqH0=",
+			"Size": 146371625,
+			"NumberOfArchives": 1390,
+			"SizeOfArchives": 87424780259,
+			"NumberOfInstalledFiles": 142171,
+			"SizeOfInstalledFiles": 137967949052
+		},
+		"version": "2.5.0.1",
+		"RepositoryName": ""
+	}, {
+		"$type": "ModListMetadata, Wabbajack.Lib",
+		"title": "Box of Rockets",
+		"description": "A Kerbal Space Program mod list that adds all the parts you could ever want, all integrated into the Community Tech Tree so you can explore the Galaxies Unbound planets!",
+		"author": "LaughingHyena",
+		"maintainers": [
+			"laughinghyena"
+		],
+		"game": "kerbalspaceprogram",
+		"official": false,
+		"tags": [
+			"Official"
+		],
+		"nsfw": false,
+		"utility_list": false,
+		"image_contains_title": false,
+		"force_down": false,
+		"links": {
+			"$type": "Links, Wabbajack.Lib",
+			"image": "https://raw.githubusercontent.com/LaughingHyena279/BoxOfRockets/main/kerbal_centrifuge_training_by_timmon26_d5g7dkr.jpg.74803b68ceb0fcafe450403c6af93139.thumb.jpg.13fff86622b4d3715e64e573b0483946.png",
+			"readme": "https://raw.githubusercontent.com/LaughingHyena279/BoxOfRockets/main/README.md",
+			"download": "https://authored-files.wabbajack.org/Box of Rockets.wabbajack_346d4418-a5ae-4901-8920-18827c396e1f",
+			"machineURL": "BOR",
+			"discordURL": "https://discord.gg/DffHKcszfg"
+		},
+		"download_metadata": {
+			"$type": "DownloadMetadata, Wabbajack.Lib",
+			"Hash": "WNvc+Q90auY=",
+			"Size": 638114,
+			"NumberOfArchives": 61,
+			"SizeOfArchives": 4210584544,
+			"NumberOfInstalledFiles": 14644,
+			"SizeOfInstalledFiles": 8305206266
+		},
+		"version": "1.2",
+		"RepositoryName": ""
+	}, {
+		"$type": "ModListMetadata, Wabbajack.Lib",
+		"title": "Krahven",
+		"description": "A roleplay-centered AE modlist with player-friendly survival elements and an injury system, designed for those who enjoy a balance between challenge and an ease of exploration. The economy is harsher, the leveling framework revamped, and new creatures and enemy variants are scattered across the land. Almost all aspects of Skyrim AE have been touched in one way or another in a way that enhances the gameplay experience.",
+		"author": "DestinySlayer96",
+		"maintainers": [
+			"github/DestinySlayer96",
+			"github/Althro"
+		],
+		"game": "skyrimspecialedition",
+		"official": false,
+		"tags": [
+			"Official",
+			"Survival",
+			"Creation Club",
+			"NeverNude"
+		],
+		"nsfw": false,
+		"utility_list": false,
+		"image_contains_title": true,
+		"force_down": false,
+		"links": {
+			"$type": "Links, Wabbajack.Lib",
+			"image": "https://raw.githubusercontent.com/DestinySlayer96/Krahven/main/Krahven.png",
+			"readme": "https://raw.githubusercontent.com/DestinySlayer96/Krahven/main/README.md",
+			"download": "https://authored-files.wabbajack.org/Krahven.wabbajack_1d3c2488-c55e-49af-a2b3-bdb9915be39d/",
+			"machineURL": "Krahven",
+			"discordURL": "https://discord.gg/DffHKcszfg"
+		},
+		"download_metadata": {
+			"$type": "DownloadMetadata, Wabbajack.Lib",
+			"Hash": "+aoyIuhnN6k=",
+			"Size": 57988458,
+			"NumberOfArchives": 994,
+			"SizeOfArchives": 88120921540,
+			"NumberOfInstalledFiles": 104103,
+			"SizeOfInstalledFiles": 144188007087
+		},
+		"version": "1.0",
+		"RepositoryName": ""
+	}
 ]
