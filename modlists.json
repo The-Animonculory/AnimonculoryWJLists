@@ -162,10 +162,7 @@
 			"SizeOfInstalledFiles": 13396651329
 		}
 	},
-	{
-		"version": "1.2",
-		"RepositoryName": ""
-	}, {
+        {
 		"$type": "ModListMetadata, Wabbajack.Lib",
 		"title": "Relics of Hyrule - GAT Edition",
 		"description": "The goal of this modlist is to be something fun and different rather than your 100th enai-survival-rim playthrough. This modlist primarily revolves around Relics of Hyrule and Grand Admiral Thrawn with new monsters coming from a heavily modified version of Rogue-Like Encounters.",
