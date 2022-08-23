@@ -272,7 +272,7 @@
 		},
 		"version": "1.0",
 		"RepositoryName": ""
-	}
+	},
 	{
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Do Not Go Gentle",
