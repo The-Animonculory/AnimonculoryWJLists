@@ -106,18 +106,18 @@
 			"$type": "Links, Wabbajack.Lib",
 			"image": "https://raw.githubusercontent.com/The-Animonculory/ADT/main/.github/ADTBanner.webp",
 			"readme": "https://raw.githubusercontent.com/The-Animonculory/ADT/main/README.md",
-			"download": "https://authored-files.wabbajack.org/ADT.wabbajack_4715032f-b5ed-4c2b-a7f2-62a416fbe934/",
+			"download": "https://authored-files.wabbajack.org/ADT.wabbajack_7445354d-ce3e-4470-afcc-a6a16302e48d/",
 			"machineURL": "ADT",
 			"discordURL": "https://discord.gg/DffHKcszfg"
 		},
 		"download_metadata": {
 			"$type": "DownloadMetadata, Wabbajack.Lib",
-			"Hash": "HVHwXX16YUI=",
-			"Size": 22682191,
-			"NumberOfArchives": 137,
-			"SizeOfArchives": 11127946913,
-			"NumberOfInstalledFiles": 35474,
-			"SizeOfInstalledFiles": 13396651329
+			  "Hash": "bZZZPwZHKZI=",
+  			  "Size": 22687960,
+  			  "NumberOfArchives": 138,
+ 			  "SizeOfArchives": 11133524177,
+			  "NumberOfInstalledFiles": 35540,
+			  "SizeOfInstalledFiles": 13432436942
 		}
 	},
         {
