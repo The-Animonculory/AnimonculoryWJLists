@@ -106,20 +106,20 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/The-Animonculory/ADT/main/.github/ADTBanner.webp",
       "readme": "https://raw.githubusercontent.com/The-Animonculory/ADT/main/README.md",
-      "download": "https://authored-files.wabbajack.org/ADT.wabbajack_7445354d-ce3e-4470-afcc-a6a16302e48d/",
+      "download": "https://authored-files.wabbajack.org/Animonculory Dev Tools.wabbajack_29b3af99-78fa-4926-827f-a90507783bab",
       "machineURL": "ADT",
       "discordURL": "https://discord.gg/DffHKcszfg"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "bZZZPwZHKZI=",
-      "Size": 22687960,
+      "Hash": "UcMMYAd2IL4=",
+      "Size": 81437970,
       "NumberOfArchives": 138,
-      "SizeOfArchives": 11133524177,
-      "NumberOfInstalledFiles": 35540,
-      "SizeOfInstalledFiles": 13432436942
+      "SizeOfArchives": 11161680461,
+      "NumberOfInstalledFiles": 35450,
+      "SizeOfInstalledFiles": 13438583206
     },
-    "version": null,
+    "version": "1.6.629",
     "RepositoryName": ""
   },
   {
