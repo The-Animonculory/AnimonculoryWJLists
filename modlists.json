@@ -1,6 +1,5 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Animonculory Visual Overhaul",
     "description": "Animonculory Visual Overhaul is the perfect base to build your list on. Featuring a complete graphical suite, custom method patching and all the fixes you need, you can either just plug-in and play or mod it to your hearts content.",
     "author": "Althro",
@@ -21,7 +20,6 @@
     "image_contains_title": true,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/The-Animonculory/Animonculory-Visual-Overhaul/main/.github/AVOLogo.webp",
       "readme": "https://raw.githubusercontent.com/The-Animonculory/Animonculory-Visual-Overhaul/main/Readme.md",
       "download": "https://authored-files.wabbajack.org/AVO.wabbajack_7ca7dfd7-a106-4ded-be2b-05189549adf8/",
@@ -29,7 +27,6 @@
       "discordURL": "https://discord.gg/DffHKcszfg"
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
       "Hash": "Vftph94bZHE=",
       "Size": 79867818,
       "NumberOfArchives": 617,
@@ -38,13 +35,14 @@
       "SizeOfInstalledFiles": 71466114407
     },
     "version": "2.1",
-    "RepositoryName": ""
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "0001-01-01T00:00:00",
+    "repositoryName": ""
   },
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Animonculory Visual Overhaul - Anniversary Edition",
     "description": "Updated to utilise the full Anniversary Edition update, Animonculory Visual Overhaul is the perfect base to build your list on. Featuring a complete graphical suite, custom method patching and all the fixes you need, you can either just plug-in and play or mod it to your hearts content.",
-    "author": "Althro & Styyx",
+    "author": "Althro \u0026 Styyx",
     "maintainers": [
       "althro",
       "github/Althro",
@@ -63,29 +61,28 @@
     "image_contains_title": true,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/The-Animonculory/Animonculory-Visual-Overhaul/main/.github/AVOAENewLogo.webp",
       "readme": "https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/AEReadme.md",
-      "download": "https://authored-files.wabbajack.org/AVO-AE.wabbajack_e4754c1b-b6ba-4c9e-9e4e-ff095532bd58/",
+      "download": "https://authored-files.wabbajack.org/AVO-AE.wabbajack_8693f22b-3fab-4bee-ad49-b78b61fbf60d",
       "machineURL": "AVOAE",
       "discordURL": "https://discord.gg/DffHKcszfg"
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "8oGudfXuI8M=",
-      "Size": 96923433,
-      "NumberOfArchives": 776,
-      "SizeOfArchives": 62558075771,
-      "NumberOfInstalledFiles": 81585,
-      "SizeOfInstalledFiles": 83347003428
+      "Hash": "LlM+a/qFG1w=",
+      "Size": 227384033,
+      "NumberOfArchives": 778,
+      "SizeOfArchives": 63253661794,
+      "NumberOfInstalledFiles": 112794,
+      "SizeOfInstalledFiles": 83404873518
     },
-    "version": "2.1",
-    "RepositoryName": ""
+    "version": "2.1.1",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2022-09-24T09:06:33.5047859Z",
+    "repositoryName": ""
   },
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Animonculory Dev Tools",
-    "description": "Designed as the mod author's tool kit, Animonculory Dev Tools comes with all the tools you need to create and test your mods. Featuring mandatory DLL level fixes & libraries to build your own with, a fully patched Creation Kit for 1.6.xx and a few tweaks, it's the ideal playground to both work and build on.",
+    "description": "Designed as the mod author\u0027s tool kit, Animonculory Dev Tools comes with all the tools you need to create and test your mods. Featuring mandatory DLL level fixes \u0026 libraries to build your own with, a fully patched Creation Kit for 1.6.xx and a few tweaks, it\u0027s the ideal playground to both work and build on.",
     "author": "Althro",
     "maintainers": [
       "althro",
@@ -103,7 +100,6 @@
     "image_contains_title": true,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/The-Animonculory/ADT/main/.github/ADTBanner.webp",
       "readme": "https://raw.githubusercontent.com/The-Animonculory/ADT/main/README.md",
       "download": "https://authored-files.wabbajack.org/Animonculory Dev Tools.wabbajack_29b3af99-78fa-4926-827f-a90507783bab",
@@ -111,7 +107,6 @@
       "discordURL": "https://discord.gg/DffHKcszfg"
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
       "Hash": "UcMMYAd2IL4=",
       "Size": 81437970,
       "NumberOfArchives": 138,
@@ -120,10 +115,11 @@
       "SizeOfInstalledFiles": 13438583206
     },
     "version": "1.6.629",
-    "RepositoryName": ""
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "0001-01-01T00:00:00",
+    "repositoryName": ""
   },
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Relics of Hyrule - GAT Edition",
     "description": "The goal of this modlist is to be something fun and different rather than your 100th enai-survival-rim playthrough. This modlist primarily revolves around Relics of Hyrule and Grand Admiral Thrawn with new monsters coming from a heavily modified version of Rogue-Like Encounters.",
     "author": "jdsmith2816, maintained by Fantastigasmical Alice",
@@ -141,7 +137,6 @@
     "image_contains_title": true,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/lexcia98/rge/master/rge.webp",
       "readme": "https://raw.githubusercontent.com/lexcia98/rge/master/README.md",
       "download": "https://authored-files.wabbajack.org/Relics%20of%20Hyrule%20-%20GAT%20Edition.wabbajack_9fd2921b-29d7-4213-aabd-8b3da170c42f",
@@ -149,7 +144,6 @@
       "discordURL": "https://discord.gg/DffHKcszfg"
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
       "Hash": "8dXkTSBMRB8=",
       "Size": 1238916444,
       "NumberOfArchives": 947,
@@ -158,10 +152,11 @@
       "SizeOfInstalledFiles": 144617147845
     },
     "version": "2.3.7.3",
-    "RepositoryName": ""
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "0001-01-01T00:00:00",
+    "repositoryName": ""
   },
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Ruvaak",
     "description": "Ruvaak is a list focused on making Skyrim: Anniversary Edition (AE) into a dark fantasy roleplaying game. Many new mechanics and changes are present to offer an alternate take on the game.",
     "author": "Styyx",
@@ -183,7 +178,6 @@
     "image_contains_title": true,
     "force_down": true,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/chri3i/Ruvaak-Readme/main/.github/RuvaakTitleNewAdjusted.webp",
       "readme": "https://raw.githubusercontent.com/chri3i/Ruvaak-Readme/main/README.md",
       "download": "https://authored-files.wabbajack.org/Ruvaak.wabbajack_d74016b1-068a-4a47-ad2b-f67ea240611d",
@@ -191,7 +185,6 @@
       "discordURL": "https://discord.gg/DffHKcszfg"
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
       "Hash": "U02jSkhfqH0=",
       "Size": 146371625,
       "NumberOfArchives": 1390,
@@ -200,10 +193,11 @@
       "SizeOfInstalledFiles": 137967949052
     },
     "version": "2.5.0.1",
-    "RepositoryName": ""
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "0001-01-01T00:00:00",
+    "repositoryName": ""
   },
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Box of Rockets",
     "description": "A Kerbal Space Program mod list that adds all the parts you could ever want, all integrated into the Community Tech Tree so you can explore the Galaxies Unbound planets!",
     "author": "LaughingHyena",
@@ -220,7 +214,6 @@
     "image_contains_title": false,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/LaughingHyena279/BoxOfRockets/main/kerbal_centrifuge_training_by_timmon26_d5g7dkr.jpg.74803b68ceb0fcafe450403c6af93139.thumb.jpg.13fff86622b4d3715e64e573b0483946.png",
       "readme": "https://raw.githubusercontent.com/LaughingHyena279/BoxOfRockets/main/README.md",
       "download": "https://authored-files.wabbajack.org/Box of Rockets.wabbajack_346d4418-a5ae-4901-8920-18827c396e1f",
@@ -228,7 +221,6 @@
       "discordURL": "https://discord.gg/DffHKcszfg"
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
       "Hash": "WNvc+Q90auY=",
       "Size": 638114,
       "NumberOfArchives": 61,
@@ -237,10 +229,11 @@
       "SizeOfInstalledFiles": 8305206266
     },
     "version": "1.2",
-    "RepositoryName": ""
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "0001-01-01T00:00:00",
+    "repositoryName": ""
   },
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Krahven",
     "description": "A roleplay-centered AE modlist with player-friendly survival elements and an injury system, designed for those who enjoy a balance between challenge and an ease of exploration. The economy is harsher, the leveling framework revamped, and new creatures and enemy variants are scattered across the land. Almost all aspects of Skyrim AE have been touched in one way or another in a way that enhances the gameplay experience.",
     "author": "DestinySlayer96",
@@ -261,7 +254,6 @@
     "image_contains_title": true,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/DestinySlayer96/Krahven/main/Krahven.png",
       "readme": "https://raw.githubusercontent.com/DestinySlayer96/Krahven/main/README.md",
       "download": "https://authored-files.wabbajack.org/Krahven.wabbajack_1d3c2488-c55e-49af-a2b3-bdb9915be39d/",
@@ -269,7 +261,6 @@
       "discordURL": "https://discord.gg/DffHKcszfg"
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
       "Hash": "+aoyIuhnN6k=",
       "Size": 57988458,
       "NumberOfArchives": 994,
@@ -278,10 +269,11 @@
       "SizeOfInstalledFiles": 144188007087
     },
     "version": "1.0",
-    "RepositoryName": ""
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "0001-01-01T00:00:00",
+    "repositoryName": ""
   },
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Do Not Go Gentle",
     "description": "A modlist meant to encourage you to try out the Requiem gameplay style. Full CC Content, Bruma, Wyrmstooth, MCO, Precision, SCAR, and Pilgrim are some of the notable mods. Many more too. Rage... Rage Against the Dying of the Light",
     "author": "Arkay_Something_Idk",
@@ -301,7 +293,6 @@
     "image_contains_title": false,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Arkay-1248/Do-Not-Go-Gentle/main/.github/DNGS40.webp",
       "readme": "https://raw.githubusercontent.com/Arkay-1248/Do-Not-Go-Gentle/main/Readme.md",
       "download": "https://authored-files.wabbajack.org/Do Not Go Gentle.wabbajack_7c1c9205-8d99-4616-8990-fcbb84a6eeb1",
@@ -309,7 +300,6 @@
       "discordURL": "https://discord.gg/DffHKcszfg"
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
       "Hash": "e9DIbUex/zw=",
       "Size": 447064140,
       "NumberOfArchives": 1310,
@@ -318,6 +308,8 @@
       "SizeOfInstalledFiles": 181732319003
     },
     "version": "0.9.0",
-    "RepositoryName": ""
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "0001-01-01T00:00:00",
+    "repositoryName": ""
   }
 ]
