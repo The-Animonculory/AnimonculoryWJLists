@@ -318,7 +318,7 @@
     "description": "Designed specifically with Skyrim Together Reborn in mind, each mod has been personally playtested and checked for desync issues and other general inconsistencies in multiplay. If you are looking for an experience inspired by systems found in Tabletop RPGs (i.e. D\u0026D) then this is the list for you and your friends.",
     "author": "Chef",
     "maintainers": [
-      "github.com/Para0x"
+      "github/Para0x"
     ],
     "game": "skyrimspecialedition",
     "official": false,
