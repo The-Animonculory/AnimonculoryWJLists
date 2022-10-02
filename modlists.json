@@ -102,21 +102,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/The-Animonculory/ADT/main/.github/ADTBanner.webp",
       "readme": "https://raw.githubusercontent.com/The-Animonculory/ADT/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Animonculory Dev Tools.wabbajack_29b3af99-78fa-4926-827f-a90507783bab",
+      "download": "https://authored-files.wabbajack.org/Animonculory Dev Tools.wabbajack_59b88256-d6a8-43b8-856f-170997bcc893",
       "machineURL": "ADT",
       "discordURL": "https://discord.gg/DffHKcszfg"
     },
     "download_metadata": {
-      "Hash": "UcMMYAd2IL4=",
-      "Size": 81437970,
+      "Hash": "dYgD9naSdOg=",
+      "Size": 71424869,
       "NumberOfArchives": 138,
-      "SizeOfArchives": 11161680461,
-      "NumberOfInstalledFiles": 35450,
-      "SizeOfInstalledFiles": 13438583206
+      "SizeOfArchives": 11161642010,
+      "NumberOfInstalledFiles": 34963,
+      "SizeOfInstalledFiles": 13400994285
     },
-    "version": "1.6.629",
+    "version": "1.6.640",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "0001-01-01T00:00:00",
+    "dateUpdated": "2022-10-02T07:49:51.5118845Z",
     "repositoryName": ""
   },
   {
@@ -275,7 +275,7 @@
   },
   {
     "title": "Do Not Go Gentle",
-    "description": "Do Not Go Gentle is designed as Requiem modlist with Bruma, Wyrmstooth, VIGILANT, and lots of other additions to extend the life of your character playthrough. A list of modern combat mods, vanilla quest additions or tweaks, most of Noxcrab's Requiem tweaks, updated graphics, and a lot of custom tweaks and patches.",
+    "description": "Do Not Go Gentle is designed as Requiem modlist with Bruma, Wyrmstooth, VIGILANT, and lots of other additions to extend the life of your character playthrough. A list of modern combat mods, vanilla quest additions or tweaks, most of Noxcrab\u0027s Requiem tweaks, updated graphics, and a lot of custom tweaks and patches.",
     "author": "Abandoned",
     "maintainers": [
       "github/Arkay-1248"
@@ -313,43 +313,43 @@
     "repositoryName": ""
   },
   {
-	"title": "Fahdon - A Skyrim Together Experience",
-	"description": "Designed specifically with Skyrim Together Reborn in mind, each mod has been personally playtested and checked for desync issues and other general inconsistencies in multiplay. If you are looking for an experience inspired by systems found in Tabletop RPGs (i.e. D&D) then this is the list for you and your friends.",
-	"author": "Chef",
-	"maintainers": [
-		"github.com/Para0x"
-	],
-	"game": "skyrimspecialedition",
-	"official": false,
-	"tags": [
-		"Skyrim Together Reborn",
-		"Creation Club",
-		"Visual Overhaul",
-		"Questing",
-		"Multiplayer"
-	],
-	"nsfw": false,
-	"utility_list": false,
-	"image_contains_title": false,
-	"force_down": false,
-	"links": {
-		"image": "https://raw.githubusercontent.com/Para0x/Fahdon-A-Skyrim-Together-Experience/main/Fahdon%20WJ%20Image.webp",
-		"readme": "https://raw.githubusercontent.com/Para0x/Fahdon-A-Skyrim-Together-Experience/main/Readme.md",
-		"download": "https://authored-files.wabbajack.org/Fahdon%20-%20A%20Skyrim%20Together%20Experience.wabbajack_f8161783-a8d0-4b2c-9356-d7ab121ddf5b",
-		"machineURL": "fahdon",
-		"discordURL": "https://discord.gg/DffHKcszfg"
-	},
-	"download_metadata": {
-		"Hash": "3Kv8tIRmMSM=",
-		"Size": 617375532,
-		"NumberOfArchives": 1068,
-		"SizeOfArchives": 83818338360,
-		"NumberOfInstalledFiles": 140475,
-		"SizeOfInstalledFiles": 135877615167
-	},
-	"version": "0.0.9",
-	"dateCreated": "1970-01-01T00:00:00Z",
-	"dateUpdated": "2022-10-01T04:20:54.6011675Z",
-	"repositoryName": ""
-}
+    "title": "Fahdon - A Skyrim Together Experience",
+    "description": "Designed specifically with Skyrim Together Reborn in mind, each mod has been personally playtested and checked for desync issues and other general inconsistencies in multiplay. If you are looking for an experience inspired by systems found in Tabletop RPGs (i.e. D\u0026D) then this is the list for you and your friends.",
+    "author": "Chef",
+    "maintainers": [
+      "github.com/Para0x"
+    ],
+    "game": "skyrimspecialedition",
+    "official": false,
+    "tags": [
+      "Skyrim Together Reborn",
+      "Creation Club",
+      "Visual Overhaul",
+      "Questing",
+      "Multiplayer"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/Para0x/Fahdon-A-Skyrim-Together-Experience/main/Fahdon%20WJ%20Image.webp",
+      "readme": "https://raw.githubusercontent.com/Para0x/Fahdon-A-Skyrim-Together-Experience/main/Readme.md",
+      "download": "https://authored-files.wabbajack.org/Fahdon%20-%20A%20Skyrim%20Together%20Experience.wabbajack_f8161783-a8d0-4b2c-9356-d7ab121ddf5b",
+      "machineURL": "fahdon",
+      "discordURL": "https://discord.gg/DffHKcszfg"
+    },
+    "download_metadata": {
+      "Hash": "3Kv8tIRmMSM=",
+      "Size": 617375532,
+      "NumberOfArchives": 1068,
+      "SizeOfArchives": 83818338360,
+      "NumberOfInstalledFiles": 140475,
+      "SizeOfInstalledFiles": 135877615167
+    },
+    "version": "0.0.9",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2022-10-01T04:20:54.6011675Z",
+    "repositoryName": ""
+  }
 ]
