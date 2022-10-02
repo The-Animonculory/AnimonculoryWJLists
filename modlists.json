@@ -311,5 +311,45 @@
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2022-09-29T20:09:54.6011675Z",
     "repositoryName": ""
-  }
+  },
+  {
+	"title": "Fahdon - A Skyrim Together Experience",
+	"description": "Designed specifically with Skyrim Together Reborn in mind, each mod has been personally playtested and checked for desync issues and other general inconsistencies in multiplay. If you are looking for an experience inspired by systems found in Tabletop RPGs (i.e. D&D) then this is the list for you and your friends.",
+	"author": "Chef",
+	"maintainers": [
+		"github.com/Para0x"
+	],
+	"game": "skyrimspecialedition",
+	"official": false,
+	"tags": [
+		"Skyrim Together Reborn",
+		"Creation Club",
+		"Visual Overhaul",
+		"Questing",
+		"Multiplayer"
+	],
+	"nsfw": false,
+	"utility_list": false,
+	"image_contains_title": false,
+	"force_down": false,
+	"links": {
+		"image": "https://raw.githubusercontent.com/Para0x/Fahdon-A-Skyrim-Together-Experience/main/Fahdon%20WJ%20Image.webp",
+		"readme": "https://raw.githubusercontent.com/Para0x/Fahdon-A-Skyrim-Together-Experience/main/Readme.md",
+		"download": "https://authored-files.wabbajack.org/Fahdon%20-%20A%20Skyrim%20Together%20Experience.wabbajack_f8161783-a8d0-4b2c-9356-d7ab121ddf5b",
+		"machineURL": "fahdon",
+		"discordURL": "https://discord.gg/DffHKcszfg"
+	},
+	"download_metadata": {
+		"Hash": "3Kv8tIRmMSM=",
+		"Size": 617375532,
+		"NumberOfArchives": 1068,
+		"SizeOfArchives": 83818338360,
+		"NumberOfInstalledFiles": 140475,
+		"SizeOfInstalledFiles": 135877615167
+	},
+	"version": "0.0.9",
+	"dateCreated": "1970-01-01T00:00:00Z",
+	"dateUpdated": "2022-10-01T04:20:54.6011675Z",
+	"repositoryName": ""
+}
 ]
