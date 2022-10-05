@@ -282,8 +282,9 @@
       "github/Arkay-1248"
     ],
     "game": "skyrimspecialedition",
-    "official": false,
+    "official": true,
     "tags": [
+      "Official",
       "Requiem",
       "Creation Club",
       "Visual Overhaul",
