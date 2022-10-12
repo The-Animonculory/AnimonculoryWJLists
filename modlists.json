@@ -180,21 +180,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/chri3i/Ruvaak-Readme/main/.github/RuvaakTitleNewAdjusted.webp",
       "readme": "https://raw.githubusercontent.com/chri3i/Ruvaak-Readme/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Ruvaak.wabbajack_d74016b1-068a-4a47-ad2b-f67ea240611d",
+      "download": "https://authored-files.wabbajack.org/Ruvaak.wabbajack_d289da42-c3f8-4457-a296-0603534cecec",
       "machineURL": "ruvaak",
       "discordURL": "https://discord.gg/DffHKcszfg"
     },
     "download_metadata": {
-      "Hash": "U02jSkhfqH0=",
-      "Size": 146371625,
-      "NumberOfArchives": 1390,
-      "SizeOfArchives": 87424780259,
-      "NumberOfInstalledFiles": 142171,
-      "SizeOfInstalledFiles": 137967949052
+      "Hash": "41zU3VrEAl0=",
+      "Size": 58626917,
+      "NumberOfArchives": 1484,
+      "SizeOfArchives": 83981269692,
+      "NumberOfInstalledFiles": 126495,
+      "SizeOfInstalledFiles": 120078900861
     },
-    "version": "2.5.0.1",
+    "version": "3.0.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "0001-01-01T00:00:00",
+    "dateUpdated": "2022-10-12T09:44:07.076251Z",
     "repositoryName": ""
   },
   {
