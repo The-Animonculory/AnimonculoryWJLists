@@ -1,45 +1,5 @@
 [
   {
-    "title": "Animonculory Visual Overhaul",
-    "description": "Animonculory Visual Overhaul is the perfect base to build your list on. Featuring a complete graphical suite, custom method patching and all the fixes you need, you can either just plug-in and play or mod it to your hearts content.",
-    "author": "Althro",
-    "maintainers": [
-      "althro",
-      "github/Althro",
-      "github/chri3i"
-    ],
-    "game": "skyrimspecialedition",
-    "official": false,
-    "tags": [
-      "Official",
-      "Visuals Only",
-      "NeverNude"
-    ],
-    "nsfw": false,
-    "utility_list": false,
-    "image_contains_title": true,
-    "force_down": true,
-    "links": {
-      "image": "https://raw.githubusercontent.com/The-Animonculory/Animonculory-Visual-Overhaul/main/.github/AVOLogo.webp",
-      "readme": "https://raw.githubusercontent.com/The-Animonculory/Animonculory-Visual-Overhaul/main/Readme.md",
-      "download": "https://authored-files.wabbajack.org/AVO.wabbajack_7ca7dfd7-a106-4ded-be2b-05189549adf8/",
-      "machineURL": "AVO",
-      "discordURL": "https://discord.gg/DffHKcszfg"
-    },
-    "download_metadata": {
-      "Hash": "Vftph94bZHE=",
-      "Size": 79867818,
-      "NumberOfArchives": 617,
-      "SizeOfArchives": 53929121869,
-      "NumberOfInstalledFiles": 77395,
-      "SizeOfInstalledFiles": 71466114407
-    },
-    "version": "2.1",
-    "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "0001-01-01T00:00:00",
-    "repositoryName": ""
-  },
-  {
     "title": "Animonculory Visual Overhaul - Anniversary Edition",
     "description": "Updated to utilise the full Anniversary Edition update, Animonculory Visual Overhaul is the perfect base to build your list on. Featuring a complete graphical suite, custom method patching and all the fixes you need, you can either just plug-in and play or mod it to your hearts content.",
     "author": "Althro \u0026 Styyx",
@@ -93,6 +53,7 @@
     "official": false,
     "tags": [
       "Official",
+      "Supports GOG",
       "Utility"
     ],
     "nsfw": false,
@@ -102,19 +63,19 @@
     "links": {
       "image": "https://raw.githubusercontent.com/The-Animonculory/ADT/main/.github/ADTBanner.webp",
       "readme": "https://raw.githubusercontent.com/The-Animonculory/ADT/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Animonculory Dev Tools.wabbajack_59b88256-d6a8-43b8-856f-170997bcc893",
+      "download": "https://authored-files.wabbajack.org/ADT.wabbajack_f4025421-7eda-4afa-b850-a68b90f9a519/",
       "machineURL": "ADT",
       "discordURL": "https://discord.gg/DffHKcszfg"
     },
     "download_metadata": {
-      "Hash": "dYgD9naSdOg=",
-      "Size": 71424869,
-      "NumberOfArchives": 138,
-      "SizeOfArchives": 11161642010,
-      "NumberOfInstalledFiles": 34963,
-      "SizeOfInstalledFiles": 13400994285
+      "Hash": "0WMFIVJNZP8=",
+      "Size":33365942,
+      "NumberOfArchives":201,
+      "SizeOfArchives":1095392101,
+      "NumberOfInstalledFiles":34685,
+      "SizeOfInstalledFiles":3048717885
     },
-    "version": "1.6.640",
+    "version": "2.0.0",
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2022-10-02T07:49:51.5118845Z",
     "repositoryName": ""
