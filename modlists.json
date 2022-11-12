@@ -218,21 +218,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/DestinySlayer96/Krahven/main/Krahven.png",
       "readme": "https://raw.githubusercontent.com/DestinySlayer96/Krahven/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Krahven AE.wabbajack_6d896619-7d2a-44da-8c78-9d954b7bbb11",
+      "download": "https://authored-files.wabbajack.org/Krahven AE.wabbajack_ad98c800-a645-4680-ac3b-f8b55f783924",
       "machineURL": "Krahven",
       "discordURL": "https://discord.gg/DffHKcszfg"
     },
     "download_metadata": {
-      "Hash": "kLvTZahHln0=",
-      "Size": 164107674,
-      "NumberOfArchives": 992,
-      "SizeOfArchives": 88159695830,
-      "NumberOfInstalledFiles": 135032,
-      "SizeOfInstalledFiles": 144221675234
+      "Hash": "DW6znDiVpAw=",
+      "Size": 164109313,
+      "NumberOfArchives": 993,
+      "SizeOfArchives": 88162191821,
+      "NumberOfInstalledFiles": 135033,
+      "SizeOfInstalledFiles": 144221679461
     },
-    "version": "1.1.0",
+    "version": "1.1.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2022-11-11T22:21:41.1024135Z",
+    "dateUpdated": "2022-11-12T19:46:21.5401293Z",
     "repositoryName": ""
   },
   {
