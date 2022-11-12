@@ -63,21 +63,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/The-Animonculory/ADT/main/.github/ADTBanner.webp",
       "readme": "https://raw.githubusercontent.com/The-Animonculory/ADT/main/README.md",
-      "download": "https://authored-files.wabbajack.org/ADT.wabbajack_6693e494-604d-4348-a847-755861dd0bb2",
+      "download": "https://authored-files.wabbajack.org/ADT.wabbajack_0ece4dfb-c9c5-4757-99a4-6d8ce0b66892",
       "machineURL": "ADT",
       "discordURL": "https://discord.gg/DffHKcszfg"
     },
     "download_metadata": {
-      "Hash": "9KMVOJBZ+3A=",
-      "Size": 27472185,
+      "Hash": "gM2sj1yUBm0=",
+      "Size": 27545694,
       "NumberOfArchives": 94,
       "SizeOfArchives": 922967589,
-      "NumberOfInstalledFiles": 34557,
-      "SizeOfInstalledFiles": 2915749763
+      "NumberOfInstalledFiles": 34576,
+      "SizeOfInstalledFiles": 2916507762
     },
-    "version": "2.0.1",
+    "version": "2.0.2",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2022-11-12T15:08:19.4947836Z",
+    "dateUpdated": "2022-11-12T22:41:04.3080366Z",
     "repositoryName": ""
   },
   {
