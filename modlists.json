@@ -294,7 +294,7 @@
     ],
     "nsfw": false,
     "utility_list": false,
-    "image_contains_title": false,
+    "image_contains_title": true,
     "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/Para0x/Fahdon-A-Skyrim-Together-Experience/main/Fahdon%20WJ%20Image.webp",
