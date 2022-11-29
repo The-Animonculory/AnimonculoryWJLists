@@ -1,8 +1,8 @@
 [
-  {
-    "title": "Animonculory Visual Overhaul - Anniversary Edition",
-    "description": "Updated to utilise the full Anniversary Edition update, Animonculory Visual Overhaul is the perfect base to build your list on. Featuring a complete graphical suite, custom method patching and all the fixes you need, you can either just plug-in and play or mod it to your hearts content.",
-    "author": "Althro \u0026 Styyx",
+    {
+    "title": "Animonculory Visual Overhaul",
+    "description": "Animonculory Visual Overhaul is the perfect base to build your list on. Featuring a complete graphical suite, custom method patching and all the fixes you need, you can either just plug-in and play or mod it to your hearts content.",
+    "author": "Althro",
     "maintainers": [
       "althro",
       "github/Althro",
@@ -13,7 +13,7 @@
     "tags": [
       "Official",
       "Visuals Only",
-      "Creation Club",
+      "Supports GOG",
       "NeverNude"
     ],
     "nsfw": false,
@@ -21,23 +21,23 @@
     "image_contains_title": true,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/The-Animonculory/Animonculory-Visual-Overhaul/main/.github/AVOAENewLogo.webp",
-      "readme": "https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/AEReadme.md",
-      "download": "https://authored-files.wabbajack.org/AVO-AE.wabbajack_8693f22b-3fab-4bee-ad49-b78b61fbf60d",
-      "machineURL": "AVOAE",
+      "image": "https://raw.githubusercontent.com/The-Animonculory/Animonculory-Visual-Overhaul/main/.github/AVOLogo.webp",
+      "readme": "https://raw.githubusercontent.com/The-Animonculory/Animonculory-Visual-Overhaul/main/Readme.md",
+      "download": "https://authored-files.wabbajack.org/Animonculory%20Visual%20Overhaul.wabbajack_70b19ec4-1598-4522-a4a7-c9846de70f33/",
+      "machineURL": "AVO",
       "discordURL": "https://discord.gg/DffHKcszfg"
     },
     "download_metadata": {
-      "Hash": "LlM+a/qFG1w=",
-      "Size": 227384033,
-      "NumberOfArchives": 778,
-      "SizeOfArchives": 63253661794,
-      "NumberOfInstalledFiles": 112794,
-      "SizeOfInstalledFiles": 83404873518
+      "Hash": "6RcJ0kTa6FI=",
+      "Size":39650344,
+      "NumberOfArchives":688,
+      "SizeOfArchives":48341271413,
+      "NumberOfInstalledFiles":81809,
+      "SizeOfInstalledFiles":66700063466
     },
-    "version": "2.1.1",
+    "version": "2.2.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2022-09-24T09:06:33.5047859Z",
+    "dateUpdated": "0001-01-01T00:00:00",
     "repositoryName": ""
   },
   {
