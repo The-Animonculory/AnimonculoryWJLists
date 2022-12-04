@@ -1,5 +1,5 @@
 [
-    {
+  {
     "title": "Animonculory Visual Overhaul",
     "description": "Animonculory Visual Overhaul is the perfect base to build your list on. Featuring a complete graphical suite, custom method patching and all the fixes you need, you can either just plug-in and play or mod it to your hearts content.",
     "author": "Althro",
@@ -23,21 +23,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/The-Animonculory/Animonculory-Visual-Overhaul/main/.github/AVOLogo.webp",
       "readme": "https://raw.githubusercontent.com/The-Animonculory/Animonculory-Visual-Overhaul/main/Readme.md",
-      "download": "https://authored-files.wabbajack.org/Animonculory%20Visual%20Overhaul.wabbajack_71609d35-1690-44c1-bde8-48004f214ebe/",
+      "download": "https://authored-files.wabbajack.org/Animonculory Visual Overhaul.wabbajack_8d0da2fd-37ee-4c04-8bba-a6e26c609c24",
       "machineURL": "AVO",
       "discordURL": "https://discord.gg/DffHKcszfg"
     },
     "download_metadata": {
-      "Hash": "Ft4WHDAHTN8=",
-      "Size":39592900,
-      "NumberOfArchives":602,
-      "SizeOfArchives":48300581849,
-      "NumberOfInstalledFiles":81723,
-      "SizeOfInstalledFiles":66659375991
+      "Hash": "VwQQ+/rH/SM=",
+      "Size": 146892247,
+      "NumberOfArchives": 624,
+      "SizeOfArchives": 50762453875,
+      "NumberOfInstalledFiles": 77006,
+      "SizeOfInstalledFiles": 68217354534
     },
-    "version": "2.2.1",
+    "version": "2.3",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "0001-01-01T00:00:00",
+    "dateUpdated": "2022-12-04T19:18:38.265991Z",
     "repositoryName": ""
   },
   {
