@@ -29,11 +29,11 @@
     },
     "download_metadata": {
       "Hash": "T6YPIS1Dkg8=",
-      "Size":37647886,
-      "NumberOfArchives":624,
-      "SizeOfArchives":50762453875,
-      "NumberOfInstalledFiles":76960,
-      "SizeOfInstalledFiles":67954889739
+      "Size": 37647886,
+      "NumberOfArchives": 624,
+      "SizeOfArchives": 50762453875,
+      "NumberOfInstalledFiles": 76960,
+      "SizeOfInstalledFiles": 67954889739
     },
     "version": "2.3",
     "dateCreated": "1970-01-01T00:00:00Z",
@@ -258,21 +258,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Arkay-1248/Do-Not-Go-Gentle/main/.github/DNGS40.webp",
       "readme": "https://raw.githubusercontent.com/Arkay-1248/Do-Not-Go-Gentle/main/Readme.md",
-      "download": "https://authored-files.wabbajack.org/Do Not Go Gentle.wabbajack_9cdc50a1-2438-4c01-a2af-9ea2896aa786",
+      "download": "https://authored-files.wabbajack.org/Do Not Go Gentle.wabbajack_2dc1b388-3b39-40a5-9526-dd7dba1cb371",
       "machineURL": "dngg",
       "discordURL": "https://discord.gg/DffHKcszfg"
     },
     "download_metadata": {
-      "Hash": "2SKyGEj3xhI=",
-      "Size": 255669393,
-      "NumberOfArchives": 1444,
-      "SizeOfArchives": 109318141217,
-      "NumberOfInstalledFiles": 171505,
-      "SizeOfInstalledFiles": 188848306788
+      "Hash": "rQdnocwIhh8=",
+      "Size": 79952908,
+      "NumberOfArchives": 1487,
+      "SizeOfArchives": 112278936405,
+      "NumberOfInstalledFiles": 174572,
+      "SizeOfInstalledFiles": 192679316485
     },
-    "version": "2.0.3",
+    "version": "2.1.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2022-11-14T18:33:14.7505515Z",
+    "dateUpdated": "2022-12-07T18:29:15.7531971Z",
     "repositoryName": ""
   },
   {
