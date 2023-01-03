@@ -22,21 +22,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/The-Animonculory/Animonculory-Visual-Overhaul/main/.github/AVOLogo.webp",
       "readme": "https://raw.githubusercontent.com/The-Animonculory/Animonculory-Visual-Overhaul/main/Readme.md",
-      "download": "https://authored-files.wabbajack.org/Animonculory%20Visual%20Overhaul.wabbajack_11ca6529-5f98-4776-9129-3fc8d9194d2d/",
+      "download": "https://authored-files.wabbajack.org/Animonculory Visual Overhaul.wabbajack_834c7a0e-1f52-4572-94fe-22b45be0de65",
       "machineURL": "AVO",
       "discordURL": "https://discord.gg/DffHKcszfg"
     },
     "download_metadata": {
-      "Hash": "nV4vw9t5yPA=",
-      "Size":74632971,
-      "NumberOfArchives":726,
-      "SizeOfArchives":84695740337,
-      "NumberOfInstalledFiles":93975,
-      "SizeOfInstalledFiles":110096358908
+      "Hash": "RvQolcCzie8=",
+      "Size": 74583075,
+      "NumberOfArchives": 710,
+      "SizeOfArchives": 84675030615,
+      "NumberOfInstalledFiles": 92163,
+      "SizeOfInstalledFiles": 110030083463
     },
-    "version": "3.0",
+    "version": "3.0.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2022-12-12T16:40:56.1767765Z",
+    "dateUpdated": "2023-01-03T18:01:21.0931919Z",
     "repositoryName": ""
   },
   {
