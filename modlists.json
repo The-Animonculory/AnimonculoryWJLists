@@ -39,10 +39,10 @@
     "dateUpdated": "2023-01-03T18:01:21.0931919Z",
     "repositoryName": ""
   },
-    {
+  {
     "title": "Animonculory Visual Overhaul - Anniversary Edition",
     "description": "Updated to utilise the full Anniversary Edition update, Animonculory Visual Overhaul is the perfect base to build your list on. Featuring a complete graphical suite, custom method patching and all the fixes you need, you can either just plug-in and play or mod it to your hearts content.",
-      "author": "Althro",
+    "author": "Althro",
     "maintainers": [
       "althro",
       "github/Althro",
@@ -68,13 +68,13 @@
     },
     "download_metadata": {
       "Hash": "ZRFtvQQ5WXE=",
-      "Size":73951105,
-      "NumberOfArchives":870,
-      "SizeOfArchives":93518055527,
-      "NumberOfInstalledFiles":96101,
-      "SizeOfInstalledFiles":119640440719
+      "Size": 73951105,
+      "NumberOfArchives": 870,
+      "SizeOfArchives": 93518055527,
+      "NumberOfInstalledFiles": 96101,
+      "SizeOfInstalledFiles": 119640440719
     },
-    "version": "3.00",
+    "version": "3.0",
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2022-10-02T07:49:51.5118845Z",
     "repositoryName": ""
@@ -102,21 +102,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/The-Animonculory/ADT/main/.github/ADTBanner.webp",
       "readme": "https://raw.githubusercontent.com/The-Animonculory/ADT/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Animonculory Dev Tools.wabbajack_2ff9a733-907e-4e81-96b5-f6a22950cff7",
+      "download": "https://authored-files.wabbajack.org/Animonculory Dev Tools.wabbajack_31d61158-11eb-4ad5-9127-7b7a7615f44f",
       "machineURL": "ADT",
       "discordURL": "https://discord.gg/DffHKcszfg"
     },
     "download_metadata": {
-      "Hash": "e6uPubLPTjQ=",
-      "Size": 7189169,
+      "Hash": "2poUQKVaER0=",
+      "Size": 7189345,
       "NumberOfArchives": 93,
-      "SizeOfArchives": 979686060,
-      "NumberOfInstalledFiles": 18853,
-      "SizeOfInstalledFiles": 2817064143
+      "SizeOfArchives": 978518078,
+      "NumberOfInstalledFiles": 18863,
+      "SizeOfInstalledFiles": 2816208123
     },
-    "version": "2.0.4",
+    "version": "2.0.5",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2022-12-12T17:16:05.7092622Z",
+    "dateUpdated": "2023-01-03T22:23:31.4683117Z",
     "repositoryName": ""
   },
   {
