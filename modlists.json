@@ -56,6 +56,9 @@
       "NeverNude"
     ],
     "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/The-Animonculory/AVO-AE/main/.github/AVOAENewLogo.webp",
       "readme": "https://raw.githubusercontent.com/The-Animonculory/AVO-AE/main/Readme.md",
