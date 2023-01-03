@@ -39,6 +39,43 @@
     "dateUpdated": "2023-01-03T18:01:21.0931919Z",
     "repositoryName": ""
   },
+    {
+    "title": "Animonculory Visual Overhaul - Anniversary Edition",
+    "description": "Updated to utilise the full Anniversary Edition update, Animonculory Visual Overhaul is the perfect base to build your list on. Featuring a complete graphical suite, custom method patching and all the fixes you need, you can either just plug-in and play or mod it to your hearts content.",
+      "author": "Althro",
+    "maintainers": [
+      "althro",
+      "github/Althro",
+      "github/chri3i"
+    ],
+    "game": "skyrimspecialedition",
+    "official": false,
+    "tags": [
+      "Official",
+      "Visuals Only",
+      "NeverNude"
+    ],
+    "nsfw": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/The-Animonculory/AVO-AE/main/.github/AVOAENewLogo.webp",
+      "readme": "https://raw.githubusercontent.com/The-Animonculory/AVO-AE/main/Readme.md",
+      "download": "https://authored-files.wabbajack.org/AVO%20-%20Anniversary%20Edition.wabbajack_0d7f4a8b-2f9c-4d92-8cba-5eaddf755fe5/",
+      "machineURL": "AVOAE",
+      "discordURL": "https://discord.gg/DffHKcszfg"
+    },
+    "download_metadata": {
+      "Hash": "ZRFtvQQ5WXE=",
+      "Size":73951105,
+      "NumberOfArchives":870,
+      "SizeOfArchives":93518055527,
+      "NumberOfInstalledFiles":96101,
+      "SizeOfInstalledFiles":119640440719
+    },
+    "version": "3.00",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2022-10-02T07:49:51.5118845Z",
+    "repositoryName": ""
+  },
   {
     "title": "Animonculory Dev Tools",
     "description": "Designed as the mod author\u0027s tool kit, Animonculory Dev Tools comes with all the tools you need to create and test your mods. Featuring mandatory DLL level fixes \u0026 libraries to build your own with, a fully patched Creation Kit for 1.6.xx and a few tweaks, it\u0027s the ideal playground to both work and build on.",
