@@ -62,21 +62,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/The-Animonculory/AVO-AE/main/.github/AVOAENewLogo.webp",
       "readme": "https://raw.githubusercontent.com/The-Animonculory/AVO-AE/main/Readme.md",
-      "download": "https://authored-files.wabbajack.org/AVO%20-%20Anniversary%20Edition.wabbajack_0d7f4a8b-2f9c-4d92-8cba-5eaddf755fe5/",
+      "download": "https://authored-files.wabbajack.org/AVO - Anniversary Edition.wabbajack_2a19fda0-1439-4a36-85aa-c142e5e7af32",
       "machineURL": "AVOAE",
       "discordURL": "https://discord.gg/DffHKcszfg"
     },
     "download_metadata": {
-      "Hash": "ZRFtvQQ5WXE=",
-      "Size": 73951105,
-      "NumberOfArchives": 870,
-      "SizeOfArchives": 93518055527,
-      "NumberOfInstalledFiles": 96101,
-      "SizeOfInstalledFiles": 119640440719
+      "Hash": "4CJRzW6n/Uc=",
+      "Size": 105106844,
+      "NumberOfArchives": 869,
+      "SizeOfArchives": 93529927607,
+      "NumberOfInstalledFiles": 119840,
+      "SizeOfInstalledFiles": 119694898231
     },
-    "version": "3.0",
+    "version": "3.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2022-10-02T07:49:51.5118845Z",
+    "dateUpdated": "2023-01-05T16:55:42.6288927Z",
     "repositoryName": ""
   },
   {
