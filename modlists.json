@@ -323,8 +323,9 @@
       "github/Para0x"
     ],
     "game": "skyrimspecialedition",
-    "official": false,
+    "official": true,
     "tags": [
+      "Official"
       "Skyrim Together Reborn",
       "Creation Club Content",
       "Visual Overhaul",
