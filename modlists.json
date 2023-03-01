@@ -80,7 +80,7 @@
     "repositoryName": ""
   },
   {
-    "title": "Animonculory Dev Tools",
+    "title": "ADT-NG",
     "description": "Designed as the mod author\u0027s tool kit, Animonculory Dev Tools comes with all the tools you need to create and test your mods. Featuring mandatory DLL level fixes \u0026 libraries to build your own with, a fully patched Creation Kit for 1.6.xx and a few tweaks, it\u0027s the ideal playground to both work and build on.",
     "author": "Althro",
     "maintainers": [
@@ -100,9 +100,9 @@
     "image_contains_title": true,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/The-Animonculory/ADT/main/.github/ADTBanner.webp",
-      "readme": "https://raw.githubusercontent.com/The-Animonculory/ADT/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Animonculory Dev Tools.wabbajack_9173fb07-67ed-4df9-a23d-df4c3b86f50a",
+      "image": "https://raw.githubusercontent.com/The-Animonculory/ADT-NG/main/.github/ADTBanner.webp",
+      "readme": "https://raw.githubusercontent.com/The-Animonculory/ADT-NG/main/README.md",
+      "download": "https://authored-files.wabbajack.org/ADT-NG.wabbajack_938c826a-18c8-4715-83d5-e02be4ddf38c/",
       "machineURL": "ADT",
       "discordURL": "https://discord.gg/DffHKcszfg"
     },
@@ -114,7 +114,7 @@
       "NumberOfInstalledFiles": 18869,
       "SizeOfInstalledFiles": 2844045261
     },
-    "version": "2.3",
+    "version": "3.0",
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2023-02-18T18:38:34.1598217Z",
     "repositoryName": ""
