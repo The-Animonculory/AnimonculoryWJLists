@@ -66,7 +66,7 @@ Designed specifically with Skyrim Together Reborn in mind, each mod has been per
 **_Mods to get familiar with:_**
 
 - [immersive spell learning](https://www.nexusmods.com/skyrimspecialedition/mods/71565)
-- [Set of Skills](https://www.nexusmods.com/skyrimspecialedition/mods/55535
+- [Set of Skills](https://www.nexusmods.com/skyrimspecialedition/mods/55535)
 - [Skyrim Together](https://wiki.tiltedphoques.com/tilted-online/guides/client-setup/using-modorganizer2-mo2/skyrim-together-reborn/launching-skyrimtogether-through-mo2)
 
 ***
