@@ -298,21 +298,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Arkay-1248/Do-Not-Go-Gentle/main/.github/DNGG40.webp",
       "readme": "https://raw.githubusercontent.com/Arkay-1248/Do-Not-Go-Gentle/main/Readme.md",
-      "download": "https://authored-files.wabbajack.org/Do Not Go Gentle.wabbajack_c7b17cdb-840d-4d4d-b6d8-29963dded1a3",
+      "download": "https://authored-files.wabbajack.org/Do Not Go Gentle.wabbajack_e4650d04-3655-4a94-ad13-3c173c687612",
       "machineURL": "dngg",
       "discordURL": "https://discord.gg/DffHKcszfg"
     },
     "download_metadata": {
-      "Hash": "OJsvPMcsWOA=",
-      "Size": 160098456,
-      "NumberOfArchives": 1632,
-      "SizeOfArchives": 144017266096,
-      "NumberOfInstalledFiles": 186824,
-      "SizeOfInstalledFiles": 240564294276
+      "Hash": "UaODKqID5UY=",
+      "Size": 157986853,
+      "NumberOfArchives": 1638,
+      "SizeOfArchives": 145578010255,
+      "NumberOfInstalledFiles": 187132,
+      "SizeOfInstalledFiles": 241666720511
     },
-    "version": "2.5.1",
+    "version": "2.5.2",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-03-15T14:15:11.816715Z",
+    "dateUpdated": "2023-04-02T16:09:18.4746661Z",
     "repositoryName": ""
   },
   {
