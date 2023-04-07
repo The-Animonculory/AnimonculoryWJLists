@@ -1,7 +1,7 @@
 [
   {
-    "title": "Animonculory Visual Overhaul",
-    "description": "Animonculory Visual Overhaul is the perfect base to build your list on. Featuring a complete graphical suite, custom method patching and all the fixes you need, you can either just plug-in and play or mod it to your hearts content.",
+    "title": "AVO - NG",
+    "description": "Featuring minimal tweaks to settlements, full creation club integration, a comprehensive graphical overhaul and no feature creep, the premier graphical overhaul for Skyrim Anniversary Edition remains the perfect base to build off.",
     "author": "Althro",
     "maintainers": [
       "althro",
@@ -13,6 +13,7 @@
     "tags": [
       "Official",
       "Visuals Only",
+      "Creation Club",
       "NeverNude"
     ],
     "nsfw": false,
@@ -20,63 +21,23 @@
     "image_contains_title": true,
     "force_down": true,
     "links": {
-      "image": "https://raw.githubusercontent.com/The-Animonculory/Animonculory-Visual-Overhaul/main/.github/AVOLogo.webp",
-      "readme": "https://raw.githubusercontent.com/The-Animonculory/Animonculory-Visual-Overhaul/main/Readme.md",
-      "download": "https://authored-files.wabbajack.org/Animonculory Visual Overhaul.wabbajack_c343ccc4-337a-4132-8870-8eb84ba7b2e5",
+      "image": "https://raw.githubusercontent.com/The-Animonculory/AVO-NG/main/.github/AVONG.webp",
+      "readme": "https://raw.githubusercontent.com/The-Animonculory/AVO-NG/main/Readme.md",
+      "download": "https://authored-files.wabbajack.org/AVO-NG.wabbajack_c6aa1854-b5a3-4600-88bb-4a44ed31527e/",
       "machineURL": "AVO",
       "discordURL": "https://discord.gg/DffHKcszfg"
     },
     "download_metadata": {
-      "Hash": "LQ4MZvkaaAA=",
-      "Size": 65243889,
-      "NumberOfArchives": 715,
-      "SizeOfArchives": 72454940673,
-      "NumberOfInstalledFiles": 87340,
-      "SizeOfInstalledFiles": 94899290350
+      "Hash": "syzLkmzaxS0=",
+      "Size":104244969,
+      "NumberOfArchives":1173,
+      "SizeOfArchives":86853358635,
+      "NumberOfInstalledFiles":92847,
+      "SizeOfInstalledFiles":114432592461
     },
-    "version": "3.2.1",
+    "version": "4.0",
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2023-02-03T21:23:12.3486853Z",
-    "repositoryName": ""
-  },
-  {
-    "title": "Animonculory Visual Overhaul - Anniversary Edition",
-    "description": "Updated to utilise the full Anniversary Edition update, Animonculory Visual Overhaul is the perfect base to build your list on. Featuring a complete graphical suite, custom method patching and all the fixes you need, you can either just plug-in and play or mod it to your hearts content.",
-    "author": "Althro",
-    "maintainers": [
-      "althro",
-      "github/Althro",
-      "github/chri3i"
-    ],
-    "game": "skyrimspecialedition",
-    "official": false,
-    "tags": [
-      "Official",
-      "Visuals Only",
-      "NeverNude"
-    ],
-    "nsfw": false,
-    "utility_list": false,
-    "image_contains_title": true,
-    "force_down": true,
-    "links": {
-      "image": "https://raw.githubusercontent.com/The-Animonculory/AVO-AE/main/.github/AVOAENewLogo.webp",
-      "readme": "https://raw.githubusercontent.com/The-Animonculory/AVO-AE/main/Readme.md",
-      "download": "https://authored-files.wabbajack.org/AVO - AE.wabbajack_a653b1d3-601d-4a44-9a1f-53b2f3a09023",
-      "machineURL": "AVOAE",
-      "discordURL": "https://discord.gg/DffHKcszfg"
-    },
-    "download_metadata": {
-      "Hash": "0r3j8Nca6ko=",
-      "Size": 66277754,
-      "NumberOfArchives": 731,
-      "SizeOfArchives": 72764896125,
-      "NumberOfInstalledFiles": 89513,
-      "SizeOfInstalledFiles": 95355354077
-    },
-    "version": "3.2.1",
-    "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-02-03T21:21:47.53981Z",
     "repositoryName": ""
   },
   {
