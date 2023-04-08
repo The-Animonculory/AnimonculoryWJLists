@@ -21,13 +21,12 @@ Designed as the mod author's tool kit, Animonculory Dev Tools (ADT) comes with a
 
 ***
 
-### [Animonculory Visual Overhaul](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul)
+### [Animonculory Visual Overhaul](https://github.com/The-Animonculory/AVO-NG)
 
-Featuring graphical enhancements, mandatory bug fixes and tweaks and method patching, Animonculory Visual Overhaul (AVO) is the perfect base to build your modlist on. AVO is made for Skyrim Special Edition **Version 1.6.640/659** (also known as Anniversary Edition) and uses the .exe of that version as well. It uses [Solas Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/49004) by default; however, it can support whichever weather mod you wish to use.
+Featuring graphical enhancements, mandatory bug fixes and tweaks and method patching, Animonculory Visual Overhaul (AVO) is the perfect base to build your modlist on. AVO is made for Skyrim Special Edition **Version 1.6.640** (also known as Anniversary Edition) and uses the .exe of that version as well. It uses [Solas Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/49004) by default; however, it can support whichever weather mod you wish to use.
 
 **_Mods to get familiar with:_**
 
-- [Root Builder](https://www.nexusmods.com/skyrimspecialedition/mods/31720)
 - [Solas Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/49004)
 - [Synthesis](https://github.com/Mutagen-Modding/Synthesis)
 - [Full Modlist](https://loadorderlibrary.com/lists/animonculory-visual-overhaul)
