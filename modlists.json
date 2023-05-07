@@ -1,6 +1,6 @@
 [
   {
-    "title": "AVO - NG",
+    "title": "AVO",
     "description": "Featuring minimal tweaks to settlements, full creation club integration, a comprehensive graphical overhaul and no feature creep, the premier graphical overhaul for Skyrim Anniversary Edition remains the perfect base to build off.",
     "author": "Althro",
     "maintainers": [
@@ -22,8 +22,8 @@
     "image_contains_title": true,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/The-Animonculory/AVO-NG/main/.github/AVONG.webp",
-      "readme": "https://raw.githubusercontent.com/The-Animonculory/AVO-NG/main/Readme.md",
+      "image": "https://raw.githubusercontent.com/The-Animonculory/AVO/main/.github/AVONG.webp",
+      "readme": "https://raw.githubusercontent.com/The-Animonculory/AVO/main/Readme.md",
       "download": "https://authored-files.wabbajack.org/AVO - Next Generation.wabbajack_febb5136-74fb-4a73-9b8d-9a3986e56d2b",
       "machineURL": "AVO",
       "discordURL": "https://discord.gg/DffHKcszfg"
@@ -42,7 +42,7 @@
     "repositoryName": ""
   },
   {
-    "title": "ADT-NG",
+    "title": "ADT",
     "description": "Designed as the mod author\u0027s tool kit, Animonculory Dev Tools comes with all the tools you need to create and test your mods. Featuring mandatory DLL level fixes \u0026 libraries to build your own with, a fully patched Creation Kit for 1.6.xx and a few tweaks, it\u0027s the ideal playground to both work and build on.",
     "author": "Althro",
     "maintainers": [
@@ -62,8 +62,8 @@
     "image_contains_title": true,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/The-Animonculory/ADT-NG/main/.github/ADTBanner.webp",
-      "readme": "https://raw.githubusercontent.com/The-Animonculory/ADT-NG/main/README.md",
+      "image": "https://raw.githubusercontent.com/The-Animonculory/ADT/main/.github/ADTBanner.webp",
+      "readme": "https://raw.githubusercontent.com/The-Animonculory/ADT/main/README.md",
       "download": "https://authored-files.wabbajack.org/Animonculory Dev Tools.wabbajack_331f7c44-58cb-41b7-a847-3d54012ef363",
       "machineURL": "ADT",
       "discordURL": "https://discord.gg/DffHKcszfg"
