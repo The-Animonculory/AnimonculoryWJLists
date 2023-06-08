@@ -124,7 +124,7 @@
     "description": "Ruvaak is a list focused on making Skyrim: Anniversary Edition (AE) into a dark fantasy roleplaying game. Many new mechanics and changes are present to offer an alternate take on the game.",
     "author": "Styyx",
     "maintainers": [
-      "github/chri3i",
+      "github/Styyx1",
       "Styyx"
     ],
     "game": "skyrimspecialedition",
@@ -141,21 +141,21 @@
     "image_contains_title": true,
     "force_down": true,
     "links": {
-      "image": "https://raw.githubusercontent.com/chri3i/Ruvaak-Readme/main/.github/RuvaakTitleNewAdjusted.webp",
-      "readme": "https://raw.githubusercontent.com/chri3i/Ruvaak-Readme/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Ruvaak.wabbajack_0a5a6a40-37dc-4dd1-b1da-bebf8f2f89a3",
+      "image": "https://raw.githubusercontent.com/Styyx1/Ruvaak-Readme/main/.github/RuvaakTitleNewAdjusted.webp",
+      "readme": "https://raw.githubusercontent.com/Styyx1/Ruvaak-Readme/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Ruvaak.wabbajack_19f61519-b492-40fd-9e10-676accb4fd19",
       "machineURL": "ruvaak",
       "discordURL": "https://discord.gg/DffHKcszfg"
     },
     "download_metadata": {
-      "Hash": "LP0bWA+F+os=",
-      "Size": 59137333,
-      "NumberOfArchives": 1510,
-      "SizeOfArchives": 86230333503,
-      "NumberOfInstalledFiles": 130186,
-      "SizeOfInstalledFiles": 128363697605
+      "Hash": "Lldi9o1+XT8=",
+      "Size": 65088117,
+      "NumberOfArchives": 1614,
+      "SizeOfArchives": 96055231130,
+      "NumberOfInstalledFiles": 140582,
+      "SizeOfInstalledFiles": 132339231871
     },
-    "version": "3.1.0.1",
+    "version": "4.0.0.0",
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2022-11-01T22:40:02.2956772Z",
     "repositoryName": ""
