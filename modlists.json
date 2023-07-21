@@ -301,21 +301,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Para0x/Fahdon-A-Skyrim-Together-Experience/main/Fahdon%20WJ%20Image.webp",
       "readme": "https://raw.githubusercontent.com/Para0x/Fahdon-A-Skyrim-Together-Experience/main/Readme.md",
-      "download": "https://authored-files.wabbajack.org/Fahdon - A Skyrim Together Experience.wabbajack_7c0809f6-cd94-4834-85a9-739a69284838",
+      "download": "https://authored-files.wabbajack.org/Fahdon - A Skyrim Together Experience.wabbajack_71676b26-2951-4051-8d3a-aad9c38b925c",
       "machineURL": "fahdon",
       "discordURL": "https://discord.gg/DffHKcszfg"
     },
     "download_metadata": {
-      "Hash": "FJ8T/RaY1yM=",
-      "Size": 528063103,
+      "Hash": "wBapW1BDzo8=",
+      "Size": 528075346,
       "NumberOfArchives": 1571,
-      "SizeOfArchives": 131389556252,
-      "NumberOfInstalledFiles": 143344,
-      "SizeOfInstalledFiles": 171291667277
+      "SizeOfArchives": 131553298056,
+      "NumberOfInstalledFiles": 143346,
+      "SizeOfInstalledFiles": 171291685449
     },
     "version": "2.1.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-07-21T02:00:56.2296549Z",
+    "dateUpdated": "2023-07-21T06:04:11.5133754Z",
     "repositoryName": ""
   }
 ]
