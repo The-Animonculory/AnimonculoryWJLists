@@ -316,5 +316,45 @@
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2023-07-25T04:54:14.5872352Z",
     "repositoryName": ""
+  },
+  {
+    "title": "Nocturnia",
+    "description": "Nocturnia is a light weight Requiem lists meant to get you into Requiem. Mostly meant to overhaul the base game instead of being content heavy. ",
+    "author": "Styyx",
+    "maintainers": [
+      "github/Styyx1",
+      "Styyx"
+    ],
+    "game": "skyrimspecialedition",
+    "official": false,
+    "tags": [      
+      "NeverNude",
+      "Requiem",
+      "Exploration",
+      "Survival"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/Styyx1/Nocturnia-Readme/master/media/CompileLogo.webp",
+      "readme": "https://raw.githubusercontent.com/Styyx1/Nocturnia-Readme/master/README.md",
+      "download": "https://authored-files.wabbajack.org/Nocturnia.wabbajack_5da99fb3-e446-44b2-97a6-2e2a7886bcb9",
+      "machineURL": "noct",
+      "discordURL": "https://discord.gg/JycmyqzZz7"
+    },
+    "download_metadata": {
+        "Hash":"88JqimKnoro=",
+        "Size":27099910,
+        "NumberOfArchives":663,
+        "SizeOfArchives":44951404229,
+        "NumberOfInstalledFiles":102480,
+        "SizeOfInstalledFiles":64178327957
+    },
+    "version": "0.9.9",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2023-07-16T16:07:07.0773556Z",
+    "repositoryName": ""
   }
 ]
