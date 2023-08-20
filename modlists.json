@@ -24,21 +24,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/The-Animonculory/AVO/main/.github/AVONG.webp",
       "readme": "https://raw.githubusercontent.com/The-Animonculory/AVO/main/Readme.md",
-      "download": "https://authored-files.wabbajack.org/AVO.wabbajack_a8f76f3a-4736-4474-98b1-bd73694b0c23",
+      "download": "https://authored-files.wabbajack.org/AVO.wabbajack_8122b42c-6bbe-4fa0-bd09-8501679a923b",
       "machineURL": "AVO",
       "discordURL": "https://discord.gg/xRrHRsb5e9"
     },
     "download_metadata": {
-      "Hash": "gyxIMv/3gIw=",
-      "Size": 52202359,
-      "NumberOfArchives": 1056,
-      "SizeOfArchives": 90959617651,
-      "NumberOfInstalledFiles": 93015,
-      "SizeOfInstalledFiles": 121481386296
+      "Hash": "6SpX7p/UNDg=",
+      "Size": 52200195,
+      "NumberOfArchives": 1055,
+      "SizeOfArchives": 90955424960,
+      "NumberOfInstalledFiles": 93012,
+      "SizeOfInstalledFiles": 121466225012
     },
-    "version": "6.0",
+    "version": "6.0.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-08-18T21:22:01.3145817Z",
+    "dateUpdated": "2023-08-20T17:54:42.4251957Z",
     "repositoryName": ""
   },
   {
