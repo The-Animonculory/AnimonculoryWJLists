@@ -83,20 +83,6 @@ If you answered "yes" to any of the above, then Krahven might be the list for yo
 
 ***
 
-### [RGE - Relics of Hyrule - Grand Admiral Thrawn Edition](https://www.wabbajack.org/#/modlists/info?machineURL=rge)
-
-For those that have had enough of the “lore-friendly” lists and want something different, RGE boasts a massive 900+ mods, featuring items, characters, and references from both The Legend of Zelda and Star Wars universes.
-
-**_Mods to get familiar with:_**
-
-[Relics of Hyrule](https://www.nexusmods.com/skyrimspecialedition/mods/12244)  
-[Invasion of Skyrim - The Force Awakens - Grand Admiral Thrawn](https://www.nexusmods.com/skyrimspecialedition/mods/24)  
-[Rogue-like Encounters](https://www.nexusmods.com/skyrimspecialedition/mods/23872)  
-[Spellsiphon](https://www.nexusmods.com/skyrimspecialedition/mods/26627)  
-[Skyrim Redone](https://www.nexusmods.com/skyrimspecialedition/mods/17915)  
-
-***
-
 ### [Ruvaak](https://github.com/chri3i/Ruvaak-Readme)
 
 Ruvaak is a list focused on making Skyrim: Anniversary Edition (AE) into a dark fantasy roleplaying game. Many new mechanics and changes are present to offer an alternate take on the game. The main focus of the list is combat. **Paid AE DLC is required.**
