@@ -1,7 +1,7 @@
 [
   {
     "title": "AVO",
-    "description": "Designed as a true to vanilla list and featuring full creation club integration, comprehensive graphical upgrades and all the essential fixes, AVO remains 'the best way to make your own list'.",
+    "description": "Designed as a true to vanilla list and featuring full creation club integration, comprehensive graphical upgrades and all the essential fixes, AVO remains \u0027the best way to make your own list\u0027.",
     "author": "Althro",
     "maintainers": [
       "althro",
@@ -24,21 +24,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Althro/AVO/main/.github/WJBanner.webp",
       "readme": "https://raw.githubusercontent.com/Althro/AVO/main/README.md",
-      "download": "https://authored-files.wabbajack.org/AVO.wabbajack_5e5c79b9-1651-47e4-a4cd-eeb6302dcc80",
+      "download": "https://authored-files.wabbajack.org/AVO.wabbajack_d7aebd5b-b5af-458d-a5bf-4f210ffdf923",
       "machineURL": "AVO",
       "discordURL": "https://discord.gg/xRrHRsb5e9"
     },
     "download_metadata": {
-      "Hash": "WLf42YqxqXM=",
-      "Size": 52200265,
-      "NumberOfArchives": 1055,
-      "SizeOfArchives": 90955424960,
-      "NumberOfInstalledFiles": 93012,
-      "SizeOfInstalledFiles": 121466225004
+      "Hash": "6VeKpPXTtI4=",
+      "Size": 53338879,
+      "NumberOfArchives": 1077,
+      "SizeOfArchives": 91723296488,
+      "NumberOfInstalledFiles": 89015,
+      "SizeOfInstalledFiles": 122962860294
     },
-    "version": "6.0.1",
+    "version": "6.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-08-20T17:58:08.3104959Z",
+    "dateUpdated": "2023-08-31T20:45:08.7148186Z",
     "repositoryName": ""
   },
   {
