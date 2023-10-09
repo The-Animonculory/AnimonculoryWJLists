@@ -24,21 +24,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Althro/AVO/main/.github/WJBanner.webp",
       "readme": "https://raw.githubusercontent.com/Althro/AVO/main/README.md",
-      "download": "https://authored-files.wabbajack.org/AVO.wabbajack_d7aebd5b-b5af-458d-a5bf-4f210ffdf923",
+      "download": "https://authored-files.wabbajack.org/AVO.wabbajack_f170d50d-36d5-4f98-b0ca-efe6b83dd834",
       "machineURL": "AVO",
       "discordURL": "https://discord.gg/xRrHRsb5e9"
     },
     "download_metadata": {
-      "Hash": "6VeKpPXTtI4=",
-      "Size": 53338879,
-      "NumberOfArchives": 1077,
-      "SizeOfArchives": 91723296488,
-      "NumberOfInstalledFiles": 89015,
-      "SizeOfInstalledFiles": 122962860294
+      "Hash": "Tfmilp5AmaI=",
+      "Size": 69952637,
+      "NumberOfArchives": 1008,
+      "SizeOfArchives": 97666718197,
+      "NumberOfInstalledFiles": 128976,
+      "SizeOfInstalledFiles": 129722891776
     },
-    "version": "6.1",
+    "version": "7.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-08-31T20:45:08.7148186Z",
+    "dateUpdated": "2023-10-09T18:16:49.2719222Z",
     "repositoryName": ""
   },
   {
