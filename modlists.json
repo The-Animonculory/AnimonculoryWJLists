@@ -1,7 +1,7 @@
 [
   {
     "title": "AVO",
-    "description": "Designed as a true to vanilla list and featuring full creation club integration, comprehensive graphical upgrades and all the essential fixes, AVO remains \u0027the best way to make your own list\u0027.",
+    "description": "Designed as a true to vanilla list and featuring all the essential fixes and tweaks alongside a comprehensive graphical upgrades, AVO remains \u0027the best way to make your own list\u0027.",
     "author": "Althro",
     "maintainers": [
       "althro",
@@ -14,30 +14,29 @@
     "tags": [
       "Official",
       "Near Vanilla",
-      "AE DLC",
       "NeverNude"
     ],
     "nsfw": false,
     "utility_list": false,
     "image_contains_title": true,
     "DisplayVersionOnlyInInstallerView": false,
-    "force_down": true,
+    "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/Althro/AVO/main/.github/WJBanner.webp",
       "readme": "https://raw.githubusercontent.com/Althro/AVO/main/README.md",
-      "download": "https://authored-files.wabbajack.org/AVO.wabbajack_b5565fee-c8fe-43ba-84d0-cde7c11d4026",
+      "download": "https://authored-files.wabbajack.org/AVO%20-%20Remastered%20Edition.wabbajack_5e65f612-b165-46cf-9834-3d83f660d4ff",
       "machineURL": "AVO",
       "discordURL": "https://discord.gg/xRrHRsb5e9"
     },
     "download_metadata": {
-      "Hash": "5Vg9MFFlTu0=",
-      "Size": 197046183,
-      "NumberOfArchives": 1009,
-      "SizeOfArchives": 98133658186,
-      "NumberOfInstalledFiles": 176642,
-      "SizeOfInstalledFiles": 130699361189
+      "Hash": "VHM2i17/srg=",
+      "Size": 518560632,
+      "NumberOfArchives": 981,
+      "SizeOfArchives": 67543417847,
+      "NumberOfInstalledFiles": 93391,
+      "SizeOfInstalledFiles": 83121736601
     },
-    "version": "7.0.0",
+    "version": "8.0.0",
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2023-10-09T18:16:49.2719222Z",
     "repositoryName": ""
