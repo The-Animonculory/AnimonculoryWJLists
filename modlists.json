@@ -309,21 +309,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Styyx1/Nocturnia-Readme/master/media/CompileLogo.webp",
       "readme": "https://raw.githubusercontent.com/Styyx1/Nocturnia-Readme/master/README.md",
-      "download": "https://authored-files.wabbajack.org/Nocturnia.wabbajack_769b5530-a243-4f34-9851-3229f65f39ff",
+      "download": "https://authored-files.wabbajack.org/Nocturnia.wabbajack_608532ba-f8cd-4bfc-9218-df515c4b772f",
       "machineURL": "noct",
       "discordURL": "https://discord.gg/JycmyqzZz7"
     },
     "download_metadata": {
-      "Hash": "C7meMt6om0Y=",
-      "Size": 71402734,
+      "Hash": "+dQb1Z+Vkts=",
+      "Size": 71402692,
       "NumberOfArchives": 716,
       "SizeOfArchives": 45084415435,
       "NumberOfInstalledFiles": 104629,
       "SizeOfInstalledFiles": 63504847831
     },
-    "version": "1.1.4.2",
+    "version": "1.1.5",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-12-20T16:27:36.0426079Z",
+    "dateUpdated": "2023-12-20T16:29:11.124197Z",
     "repositoryName": ""
   }
 ]
