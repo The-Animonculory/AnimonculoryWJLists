@@ -20,7 +20,7 @@
     "utility_list": false,
     "image_contains_title": true,
     "DisplayVersionOnlyInInstallerView": false,
-    "force_down": false,
+    "force_down": true,
     "links": {
       "image": "https://raw.githubusercontent.com/Althro/AVO/main/.github/WJBanner.webp",
       "readme": "https://raw.githubusercontent.com/Althro/AVO/main/README.md",
@@ -39,6 +39,46 @@
     "version": "8.0.1",
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2023-12-19T20:56:05.1336926Z",
+    "repositoryName": ""
+  },
+   {
+    "title": "Anvil",
+    "description": "Anvil is designed as a baseline list to be used as either a forking base for a list or a mod development base. See the readme for more details.",
+    "author": "Althro",
+    "maintainers": [
+      "github/Althro"
+    ],
+    "game": "skyrimspecialedition",
+    "official": false,
+    "tags": [
+      "Official",
+      "Near Vanilla",
+      "NeverNude",
+      "Utility"
+    ],
+    "nsfw": false,
+    "utility_list": true,
+    "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/Althro/Anvil/main/Resources/AnvilTestThumbnail.png",
+      "readme": "https://raw.githubusercontent.com/Althro/Anvil/main/README.md",
+      "download": "https://authored-files.wabbajack.org/ANVIL.wabbajack_a9eb9b74-86af-40b8-a3b2-206ec2384f86",
+      "machineURL": "ANVIL",
+      "discordURL": "https://discord.gg/xRrHRsb5e9"
+    },
+    "download_metadata": {
+      "Hash": "sTPKKPRJsUA=",
+      "Size":74148219,
+      "NumberOfArchives":428,
+      "SizeOfArchives":50964588547,
+      "NumberOfInstalledFiles":59720,
+      "SizeOfInstalledFiles":61068718397
+    },
+    "version": "0.7.0",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2023-12-26T20:16:28.3870165Z",
     "repositoryName": ""
   },
   {
