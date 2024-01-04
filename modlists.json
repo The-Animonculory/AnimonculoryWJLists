@@ -41,7 +41,7 @@
     "dateUpdated": "2023-12-19T20:56:05.1336926Z",
     "repositoryName": ""
   },
-   {
+  {
     "title": "Anvil",
     "description": "Anvil is designed as a baseline list to be used as either a forking base for a list or a mod development base. See the readme for more details.",
     "author": "Althro",
@@ -64,21 +64,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Althro/Anvil/main/Resources/AnvilTestThumbnail.png",
       "readme": "https://raw.githubusercontent.com/Althro/Anvil/main/README.md",
-      "download": "https://authored-files.wabbajack.org/ANVIL.wabbajack_a9eb9b74-86af-40b8-a3b2-206ec2384f86",
+      "download": "https://authored-files.wabbajack.org/ANVIL.wabbajack_5fefccb5-1160-446c-ad1b-3e266f6203cf",
       "machineURL": "ANVIL",
       "discordURL": "https://discord.gg/xRrHRsb5e9"
     },
     "download_metadata": {
-      "Hash": "sTPKKPRJsUA=",
-      "Size":74148219,
-      "NumberOfArchives":428,
-      "SizeOfArchives":50964588547,
-      "NumberOfInstalledFiles":59720,
-      "SizeOfInstalledFiles":61068718397
+      "Hash": "yjc+XtgPHi4=",
+      "Size": 67087752,
+      "NumberOfArchives": 464,
+      "SizeOfArchives": 51134583601,
+      "NumberOfInstalledFiles": 77482,
+      "SizeOfInstalledFiles": 61401015405
     },
-    "version": "0.7.0",
+    "version": "0.8",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-12-26T20:16:28.3870165Z",
+    "dateUpdated": "2024-01-04T18:03:56.6123742Z",
     "repositoryName": ""
   },
   {
