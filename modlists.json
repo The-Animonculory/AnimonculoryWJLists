@@ -64,21 +64,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Althro/Anvil/main/Resources/AnvilTestThumbnail.png",
       "readme": "https://raw.githubusercontent.com/Althro/Anvil/main/README.md",
-      "download": "https://authored-files.wabbajack.org/ANVIL.wabbajack_7a165290-7733-482b-ad82-82cfd3ae93dd",
+      "download": "https://authored-files.wabbajack.org/ANVIL.wabbajack_1b9fc1fb-9ae3-42ad-b749-340f2de10f98",
       "machineURL": "ANVIL",
       "discordURL": "https://discord.gg/xRrHRsb5e9"
     },
     "download_metadata": {
-      "Hash": "nTgCIVltX6I=",
-      "Size": 131418516,
-      "NumberOfArchives": 484,
-      "SizeOfArchives": 52659082847,
-      "NumberOfInstalledFiles": 77896,
-      "SizeOfInstalledFiles": 62447565655
+      "Hash": "kn6RY4jt+V0=",
+      "Size": 151044662,
+      "NumberOfArchives": 498,
+      "SizeOfArchives": 52612883510,
+      "NumberOfInstalledFiles": 76559,
+      "SizeOfInstalledFiles": 61836004611
     },
-    "version": "0.11.1",
+    "version": "0.12",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-01-13T12:45:52.9689845Z",
+    "dateUpdated": "2024-01-16T19:11:57.6196909Z",
     "repositoryName": ""
   },
   {
