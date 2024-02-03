@@ -8,7 +8,7 @@ Listed below is a short summary of all the Animonculory modlists, and what mods 
 
 ***
 
-### [Animonculory Dev Tools](https://github.com/The-Animonculory/ADT/blob/main/README.md)
+### [Althro's Dev Tools](https://github.com/The-Animonculory/ADT/blob/main/README.md)
 
 Designed as the mod author's tool kit, Animonculory Dev Tools (ADT) comes with all the tools you need to create and test your mods. Featuring mandatory DLL level fixes & libraries to build your own with, **native GOG and Steam compatability** and a few tweaks, it's the ideal playground to both work and build on.
 
@@ -21,13 +21,13 @@ Designed as the mod author's tool kit, Animonculory Dev Tools (ADT) comes with a
 
 ***
 
-### [Animonculory Visual Overhaul](https://github.com/The-Animonculory/AVO-NG)
+### [Anvil](https://github.com/Althro/Anvil)
 
-Featuring graphical enhancements, mandatory bug fixes and tweaks and method patching, Animonculory Visual Overhaul (AVO) is the perfect base to build your modlist on. AVO is made for Skyrim Special Edition **Version 1.6.640** (also known as Anniversary Edition) and uses the .exe of that version as well.
+Anvil is designed as a forge for creating on. It can be used to build your own list, create mods, and also be played as is. It is fully documented with all changes and tweaks to mods being detailed in the `notes` part of Mod Organizer 2, and aims to be light in its footprint.
 
 **_Mods to get familiar with:_**
 
-- [Full Modlist](https://loadorderlibrary.com/lists/animonculory-visual-overhaul)
+- [Full Modlist](https://loadorderlibrary.com/lists/anvil)
 
 ***
 
