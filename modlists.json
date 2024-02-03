@@ -1,47 +1,5 @@
 [
   {
-    "title": "AVO",
-    "description": "Designed as a true to vanilla list and featuring all the essential fixes and tweaks alongside a comprehensive graphical upgrades, AVO remains \u0027the best way to make your own list\u0027.",
-    "author": "Althro",
-    "maintainers": [
-      "althro",
-      "github/Althro",
-      "github/chri3i",
-      "github/Arkay-1248"
-    ],
-    "game": "skyrimspecialedition",
-    "official": false,
-    "tags": [
-      "Official",
-      "Near Vanilla",
-      "NeverNude"
-    ],
-    "nsfw": false,
-    "utility_list": false,
-    "image_contains_title": true,
-    "DisplayVersionOnlyInInstallerView": false,
-    "force_down": true,
-    "links": {
-      "image": "https://raw.githubusercontent.com/Althro/AVO/main/.github/WJBanner.webp",
-      "readme": "https://raw.githubusercontent.com/Althro/AVO/main/README.md",
-      "download": "https://authored-files.wabbajack.org/AVO - Remastered Edition.wabbajack_f2c6c728-30b6-4bfa-98fe-d25c1dc86e73",
-      "machineURL": "AVO",
-      "discordURL": "https://discord.gg/xRrHRsb5e9"
-    },
-    "download_metadata": {
-      "Hash": "M89rGXxvIqY=",
-      "Size": 518455652,
-      "NumberOfArchives": 977,
-      "SizeOfArchives": 67252509707,
-      "NumberOfInstalledFiles": 93315,
-      "SizeOfInstalledFiles": 83222059510
-    },
-    "version": "8.0.1",
-    "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-12-19T20:56:05.1336926Z",
-    "repositoryName": ""
-  },
-  {
     "title": "Anvil",
     "description": "Anvil is designed as a baseline list to be used as either a forking base for a list or a mod development base. See the readme for more details.",
     "author": "Althro",
