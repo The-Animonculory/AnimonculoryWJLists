@@ -8,19 +8,6 @@ Listed below is a short summary of all the Animonculory modlists, and what mods 
 
 ***
 
-### [Althro's Dev Tools](https://github.com/The-Animonculory/ADT/blob/main/README.md)
-
-Designed as the mod author's tool kit, Animonculory Dev Tools (ADT) comes with all the tools you need to create and test your mods. Featuring mandatory DLL level fixes & libraries to build your own with, **native GOG and Steam compatability** and a few tweaks, it's the ideal playground to both work and build on.
-
-**_Tools/Mods to get familiar with:_**
-
-- [NifSkope](http://niftools.sourceforge.net/wiki/NifSkope)
-- [Octagon](https://www.nexusmods.com/skyrimspecialedition/mods/28773)
-- [Root Builder](https://www.nexusmods.com/skyrimspecialedition/mods/31720)
-- [Synthesis](https://github.com/Mutagen-Modding/Synthesis)
-
-***
-
 ### [Anvil](https://github.com/Althro/Anvil)
 
 Anvil is designed as a forge for creating on. It can be used to build your own list, create mods, and also be played as is. It is fully documented with all changes and tweaks to mods being detailed in the `notes` part of Mod Organizer 2, and aims to be light in its footprint.
@@ -28,13 +15,6 @@ Anvil is designed as a forge for creating on. It can be used to build your own l
 **_Mods to get familiar with:_**
 
 - [Full Modlist](https://loadorderlibrary.com/lists/anvil)
-
-***
-
-### [Box Of Rockets](https://github.com/LaughingHyena279/BoxOfRockets/blob/main/README.md)
-Box Of Rockets is a modlist for Kerbal Space Program focused on adding more ways to build rockets and explore the world of the game. Wiith options to use WarpDrive, KSP Interstellar Extended or Blueshift, where will your adventures take you?
-
-- [Trello Board](https://trello.com/b/jSAoOFEA/box-of-rockets)
 
 ***
 
@@ -54,17 +34,6 @@ This list is designed as Requiem modlist with [Bruma](https://www.nexusmods.com/
 - [Pilgrim](https://www.nexusmods.com/skyrimspecialedition/mods/54099)
 - [Modern Combat Overhaul - ADXP | MCO](https://www.skyrim-guild.com/distar/mods/attack) and [SCAR](https://www.nexusmods.com/skyrimspecialedition/mods/72014)
 - [Static Skill Leveling](https://www.nexusmods.com/skyrimspecialedition/mods/30410)
-
-***
-
-### [Fahdon](https://github.com/Para0x/Fahdon-A-Skyrim-Together-Experience/blob/main/Readme.md)
-Designed specifically with Skyrim Together Reborn in mind, each mod has been personally playtested and checked for desync issues and other general inconsistencies in multiplay. If you are looking for an experience inspired by systems found in Tabletop RPGs (i.e. D&D) then this is the list for you and your friends.
-
-**_Mods to get familiar with:_**
-
-- [immersive spell learning](https://www.nexusmods.com/skyrimspecialedition/mods/71565)
-- [Set of Skills](https://www.nexusmods.com/skyrimspecialedition/mods/55535)
-- [Skyrim Together](https://wiki.tiltedphoques.com/tilted-online/guides/client-setup/using-modorganizer2-mo2/skyrim-together-reborn/launching-skyrimtogether-through-mo2)
 
 ***
 
