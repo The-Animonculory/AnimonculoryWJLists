@@ -49,7 +49,7 @@
       "github/chri3i"
     ],
     "game": "skyrimspecialedition",
-    "official": false,
+    "official": true,
     "tags": [
       "Official",
       "Utility"
@@ -62,19 +62,19 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Althro/ADT/main/Resources/ADTNew.webp",
       "readme": "https://raw.githubusercontent.com/Althro/ADT/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Althros Dev Tools.wabbajack_c01d7be4-3a98-4bcf-b16c-8d5114a10184",
+      "download": "https://authored-files.wabbajack.org/ADT.wabbajack_8c020f30-fb53-4d01-848e-3dc450dabc84",
       "machineURL": "ADT",
       "discordURL": "https://discord.gg/xRrHRsb5e9"
     },
     "download_metadata": {
-      "Hash": "eYq48L2mCQs=",
-      "Size": 138413105,
-      "NumberOfArchives": 218,
-      "SizeOfArchives": 17494922199,
-      "NumberOfInstalledFiles": 48739,
-      "SizeOfInstalledFiles": 18426034723
+      "Hash": "rQgw9+rDtkY=",
+      "Size":34744719,
+      "NumberOfArchives":218,
+      "SizeOfArchives":17541112527,
+      "NumberOfInstalledFiles":27875,
+      "SizeOfInstalledFiles":19626205581
     },
-    "version": "5.1.4",
+    "version": "6.0.0",
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2024-01-26T20:59:30.4292924Z",
     "repositoryName": ""
