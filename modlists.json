@@ -4,7 +4,9 @@
     "description": "Anvil is designed as a baseline list to be used as either a forking base for a list or a mod development base. See the readme for more details.",
     "author": "Althro",
     "maintainers": [
-      "github/Althro"
+      "github/Althro",
+      "github/Styyx1",
+      "github/Arkay-1248"
     ],
     "game": "skyrimspecialedition",
     "official": false,
@@ -46,7 +48,8 @@
     "maintainers": [
       "althro",
       "github/Althro",
-      "github/chri3i"
+      "github/Styyx1",
+      "github/Arkay-1248"
     ],
     "game": "skyrimspecialedition",
     "official": true,
