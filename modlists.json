@@ -81,48 +81,7 @@
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2024-01-26T20:59:30.4292924Z",
     "repositoryName": ""
-  },
-  {
-    "title": "Ruvaak",
-    "description": "Ruvaak is a list focused on making Skyrim: Anniversary Edition (AE) into a dark fantasy roleplaying game. Many new mechanics and changes are present to offer an alternate take on the game.",
-    "author": "Styyx",
-    "maintainers": [
-      "github/Styyx1",
-      "Styyx"
-    ],
-    "game": "skyrimspecialedition",
-    "official": false,
-    "tags": [
-      "NeverNude",
-      "MCO",
-      "AE DLC",
-      "Horror/Dark Fantasy"
-    ],
-    "nsfw": false,
-    "utility_list": false,
-    "image_contains_title": true,
-    "DisplayVersionOnlyInInstallerView": false,
-    "force_down": true,
-    "links": {
-      "image": "https://raw.githubusercontent.com/Styyx1/Ruvaak-Readme/main/.github/RuvaakTitleNewAdjusted.webp",
-      "readme": "https://raw.githubusercontent.com/Styyx1/Ruvaak-Readme/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Ruvaak.wabbajack_206936ba-c69b-4305-95ce-4fbe1d2b91c3",
-      "machineURL": "ruvaak",
-      "discordURL": "https://discord.gg/xRrHRsb5e9"
-    },
-    "download_metadata": {
-      "Hash": "hx1evPPxNgE=",
-      "Size": 96334669,
-      "NumberOfArchives": 1647,
-      "SizeOfArchives": 96187722581,
-      "NumberOfInstalledFiles": 159479,
-      "SizeOfInstalledFiles": 133170231523
-    },
-    "version": "4.2.2",
-    "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-11-11T06:01:56.8055531Z",
-    "repositoryName": ""
-  },
+  },  
   {
     "title": "Box of Rockets",
     "description": "A Kerbal Space Program mod list that adds all the parts you could ever want, all integrated into the Community Tech Tree so you can explore the Galaxies Unbound planets!",
@@ -242,49 +201,7 @@
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2024-03-26T21:47:36.5949316Z",
     "repositoryName": ""
-  },
-  {
-    "title": "Fahdon - A Skyrim Together Experience",
-    "description": "Designed to provide an optimal experience for players of Skyrim Together Reborn, Fahdon offers tools for immersive role-playing, including in-game emotes and spell learning. However, be cautious as the enemies in the game have been made smarter and can quickly overpower an unprepared player. The journey through the game will be filled with breathtaking landscapes and diverse destinations to explore.",
-    "author": "Chef",
-    "maintainers": [
-      "github/Para0x"
-    ],
-    "game": "skyrimspecialedition",
-    "official": false,
-    "tags": [
-      "Official",
-      "Skyrim Together Reborn",
-      "AE DLC",
-      "Questing",
-      "Multiplayer",
-      "Roleplaying"
-    ],
-    "nsfw": false,
-    "utility_list": false,
-    "image_contains_title": true,
-    "DisplayVersionOnlyInInstallerView": false,
-    "force_down": true,
-    "links": {
-      "image": "https://raw.githubusercontent.com/Para0x/Fahdon-A-Skyrim-Together-Experience/main/Fahdon%20WJ%20Image.webp",
-      "readme": "https://raw.githubusercontent.com/Para0x/Fahdon-A-Skyrim-Together-Experience/main/Readme.md",
-      "download": "https://authored-files.wabbajack.org/Fahdon - A Skyrim Together Experience.wabbajack_70c614fb-5e01-4778-9815-c1241713c740",
-      "machineURL": "fahdon",
-      "discordURL": "https://discord.gg/xRrHRsb5e9"
-    },
-    "download_metadata": {
-      "Hash": "hrkY3XEdhOA=",
-      "Size": 542417553,
-      "NumberOfArchives": 1584,
-      "SizeOfArchives": 132213067348,
-      "NumberOfInstalledFiles": 144077,
-      "SizeOfInstalledFiles": 171466040667
-    },
-    "version": "2.1.0",
-    "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-07-25T04:54:14.5872352Z",
-    "repositoryName": ""
-  },
+  },  
   {
     "title": "Nocturnia",
     "description": "Nocturnia is a lightweight Requiem list meant to get you into Requiem. Mostly meant to overhaul the base game instead of being content heavy. ",
