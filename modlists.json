@@ -65,23 +65,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Althro/ADT/main/Resources/ADTNew.webp",
       "readme": "https://raw.githubusercontent.com/Althro/ADT/main/README.md",
-      "download": "https://authored-files.wabbajack.org/ADT.wabbajack_8c020f30-fb53-4d01-848e-3dc450dabc84",
+      "download": "https://authored-files.wabbajack.org/ADT.wabbajack_6541e432-7da2-4cc5-a496-0d9220e389a9",
       "machineURL": "ADT",
       "discordURL": "https://discord.gg/xRrHRsb5e9"
     },
     "download_metadata": {
-      "Hash": "rQgw9+rDtkY=",
-      "Size":34744719,
-      "NumberOfArchives":218,
-      "SizeOfArchives":17541112527,
-      "NumberOfInstalledFiles":27875,
-      "SizeOfInstalledFiles":19626205581
+      "Hash": "lsqyx1zoDFc=",
+      "Size": 57950469,
+      "NumberOfArchives": 236,
+      "SizeOfArchives": 17364793379,
+      "NumberOfInstalledFiles": 22435,
+      "SizeOfInstalledFiles": 20009430837
     },
-    "version": "6.0.0",
+    "version": "7.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-01-26T20:59:30.4292924Z",
+    "dateUpdated": "2024-09-16T17:48:57.9402839Z",
     "repositoryName": ""
-  },  
+  },
   {
     "title": "Box of Rockets",
     "description": "A Kerbal Space Program mod list that adds all the parts you could ever want, all integrated into the Community Tech Tree so you can explore the Galaxies Unbound planets!",
@@ -201,7 +201,7 @@
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2024-03-26T21:47:36.5949316Z",
     "repositoryName": ""
-  },  
+  },
   {
     "title": "Nocturnia",
     "description": "Nocturnia is a lightweight Requiem list meant to get you into Requiem. Mostly meant to overhaul the base game instead of being content heavy. ",
