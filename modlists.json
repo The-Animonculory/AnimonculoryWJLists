@@ -222,7 +222,7 @@
     "utility_list": false,
     "image_contains_title": true,
     "DisplayVersionOnlyInInstallerView": false,
-    "force_down": false,
+    "force_down": true,
     "links": {
       "image": "https://raw.githubusercontent.com/Styyx1/Nocturnia-Readme/master/media/CompileLogo.webp",
       "readme": "https://raw.githubusercontent.com/Styyx1/Nocturnia-Readme/master/README.md",
