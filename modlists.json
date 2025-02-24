@@ -65,21 +65,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Althro/ADT/main/Resources/ADTNew.webp",
       "readme": "https://raw.githubusercontent.com/Althro/ADT/main/README.md",
-      "download": "https://authored-files.wabbajack.org/ADT.wabbajack_e3ade88d-9957-489a-958b-2486345d0645",
+      "download": "https://authored-files.wabbajack.org/ADT.wabbajack_3d31fe90-45cf-4d3d-b64a-18d64b81065a",
       "machineURL": "ADT",
       "discordURL": "https://discord.gg/xRrHRsb5e9"
     },
     "download_metadata": {
-      "Hash": "Cbv8CdXBh7I=",
-      "Size": 80810458,
-      "NumberOfArchives": 234,
-      "SizeOfArchives": 17365022274,
-      "NumberOfInstalledFiles": 22652,
-      "SizeOfInstalledFiles": 20009421355
+      "Hash": "q2uWWFlROCQ=",
+      "Size": 40649526,
+      "NumberOfArchives": 236,
+      "SizeOfArchives": 17345724371,
+      "NumberOfInstalledFiles": 21972,
+      "SizeOfInstalledFiles": 19279766215
     },
-    "version": "7.0.1",
+    "version": "8.0.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-12-01T15:44:31.0751735Z",
+    "dateUpdated": "2025-02-24T05:40:32.5028186Z",
     "repositoryName": ""
   },
   {
