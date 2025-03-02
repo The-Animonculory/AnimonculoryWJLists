@@ -1,46 +1,4 @@
-[
-  {
-    "title": "Anvil",
-    "description": "Anvil is designed as a baseline list to be used as either a forking base for a list or a mod development base. See the readme for more details.",
-    "author": "Althro",
-    "maintainers": [
-      "github/Althro",
-      "github/Styyx1",
-      "github/Abandoned-1248"
-    ],
-    "game": "skyrimspecialedition",
-    "official": false,
-    "tags": [
-      "Official",
-      "Near Vanilla",
-      "NeverNude",
-      "Utility"
-    ],
-    "nsfw": false,
-    "utility_list": true,
-    "image_contains_title": true,
-    "DisplayVersionOnlyInInstallerView": false,
-    "force_down": false,
-    "links": {
-      "image": "https://raw.githubusercontent.com/Althro/Anvil/main/Resources/AnvilTestThumbnail.png",
-      "readme": "https://raw.githubusercontent.com/Althro/Anvil/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Anvil.wabbajack_4831b7b0-fc68-4c8f-aea8-9abeeefc9bb0",
-      "machineURL": "ANVIL",
-      "discordURL": "https://discord.gg/xRrHRsb5e9"
-    },
-    "download_metadata": {
-      "Hash": "02ofN2EGTBA=",
-      "Size": 137075312,
-      "NumberOfArchives": 810,
-      "SizeOfArchives": 79816240303,
-      "NumberOfInstalledFiles": 85931,
-      "SizeOfInstalledFiles": 86121765451
-    },
-    "version": "2.2",
-    "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-04-07T15:20:45.4127147Z",
-    "repositoryName": ""
-  },
+[  
   {
     "title": "ADT",
     "description": "Designed as the mod author\u0027s tool kit, Animonculory Dev Tools comes with all the tools you need to create and test your mods. Featuring mandatory DLL level fixes \u0026 libraries to build your own with, a fully patched Creation Kit for 1.6.xx and a few tweaks, it\u0027s the ideal playground to both work and build on.",
