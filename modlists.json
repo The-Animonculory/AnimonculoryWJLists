@@ -117,5 +117,47 @@
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2023-12-20T16:29:11.124197Z",
     "repositoryName": ""
+  },
+  {
+    "title": "Curseadelica",
+    "description": "Biblically accurate Skyrim",
+    "author": "JanuarySnow",
+    "maintainers": [
+      "github/Styyx1",
+      "Styyx"
+    ],
+    "game": "skyrimspecialedition",
+    "official": true,
+    "tags": [
+      "Overhaul",
+      "LOTD",
+      "Legacy of the Dragonborn",
+      "Simonrim",
+      "official"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": false,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": true,
+    "links": {
+      "image": "https://raw.githubusercontent.com/Januarysnow/Curseadelica/main/banner.webp",
+      "readme": "https://github.com/JanuarySnow/Curseadelica/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Curseadelica.wabbajack_c9b96033-8ab4-43e4-b221-6efc24f2110e",
+      "machineURL": "Curseadelica",
+      "discordURL": "https://discord.gg/xRrHRsb5e9"
+    },
+    "download_metadata": {
+      "Hash": "dV786GJ1XQs=",
+      "Size": 176268968,
+      "NumberOfArchives": 982,
+      "SizeOfArchives": 100701929236,
+      "NumberOfInstalledFiles": 344047,
+      "SizeOfInstalledFiles": 166762008127
+    },
+    "version": "3.22",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2024-11-29T22:45:48.000Z",
+    "repositoryName": ""
   }
 ]
