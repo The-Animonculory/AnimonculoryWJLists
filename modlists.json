@@ -139,7 +139,7 @@
     "utility_list": false,
     "image_contains_title": false,
     "DisplayVersionOnlyInInstallerView": false,
-    "force_down": true,
+    "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/The-Animonculory/Curseadelica/refs/heads/main/banner.webp",
       "readme": "https://github.com/The-Animonculory/Curseadelica/blob/main/README.md",
