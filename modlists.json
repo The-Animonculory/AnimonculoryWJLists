@@ -25,7 +25,8 @@
       "readme": "https://raw.githubusercontent.com/Althro/ADT/main/README.md",
       "download": "https://authored-files.wabbajack.org/ADT.wabbajack_3d31fe90-45cf-4d3d-b64a-18d64b81065a",
       "machineURL": "ADT",
-      "discordURL": "https://discord.gg/xRrHRsb5e9"
+      "discordURL": "https://discord.gg/xRrHRsb5e9",
+      "websiteURL": ""
     },
     "download_metadata": {
       "Hash": "q2uWWFlROCQ=",
@@ -33,7 +34,8 @@
       "NumberOfArchives": 236,
       "SizeOfArchives": 17345724371,
       "NumberOfInstalledFiles": 21972,
-      "SizeOfInstalledFiles": 19279766215
+      "SizeOfInstalledFiles": 19279766215,
+      "TotalSize": 36625490586
     },
     "version": "8.0.0",
     "dateCreated": "1970-01-01T00:00:00Z",
@@ -66,7 +68,8 @@
       "readme": "https://raw.githubusercontent.com/Styyx1/Nocturnia-Readme/master/README.md",
       "download": "https://authored-files.wabbajack.org/Nocturnia.wabbajack_608532ba-f8cd-4bfc-9218-df515c4b772f",
       "machineURL": "noct",
-      "discordURL": "https://discord.gg/JycmyqzZz7"
+      "discordURL": "https://discord.gg/JycmyqzZz7",
+      "websiteURL": ""
     },
     "download_metadata": {
       "Hash": "+dQb1Z+Vkts=",
@@ -74,7 +77,8 @@
       "NumberOfArchives": 716,
       "SizeOfArchives": 45084415435,
       "NumberOfInstalledFiles": 104629,
-      "SizeOfInstalledFiles": 63504847831
+      "SizeOfInstalledFiles": 63504847831,
+      "TotalSize": 108589263266
     },
     "version": "1.1.5",
     "dateCreated": "1970-01-01T00:00:00Z",
@@ -106,21 +110,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/The-Animonculory/Curseadelica/refs/heads/main/banner.webp",
       "readme": "https://github.com/The-Animonculory/Curseadelica/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Curseadelica.wabbajack_ec41892d-fa75-4b88-8dad-328f86bd6388",
+      "download": "https://authored-files.wabbajack.org/Apostasy - Allow Death.wabbajack_f45d8ea5-637c-405d-bb26-0c8bfec43134",
       "machineURL": "Curseadelica",
-      "discordURL": "https://discord.gg/xRrHRsb5e9"
+      "discordURL": "https://discord.gg/xRrHRsb5e9",
+      "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "h5AO9ShTD70=",
-      "Size": 174969081,
+      "Hash": "CDukLbfpOv8=",
+      "Size": 176607133,
       "NumberOfArchives": 983,
       "SizeOfArchives": 100705614375,
-      "NumberOfInstalledFiles": 343973,
-      "SizeOfInstalledFiles": 166751453742
+      "NumberOfInstalledFiles": 343974,
+      "SizeOfInstalledFiles": 166751455233,
+      "TotalSize": 267457069608
     },
     "version": "3.23",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-03-03T22:00:51.7442394Z",
+    "dateUpdated": "2025-03-31T22:07:50.3398105Z",
     "repositoryName": ""
   }
 ]
