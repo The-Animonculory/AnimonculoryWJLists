@@ -110,23 +110,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Styyx1/Apostasy---Allow-Death/refs/heads/master/images/banner1.webp",
       "readme": "https://github.com/Styyx1/Apostasy---Allow-Death/blob/master/README.md",
-      "download": "https://authored-files.wabbajack.org/Apostasy - Allow Death.wabbajack_e2d8075c-4e4a-40ff-a294-27355777b294",
+      "download": "https://authored-files.wabbajack.org/Apostasy - Allow Death.wabbajack_ad04f123-b8fa-4a92-abf9-4f152e8cecd6",
       "machineURL": "Curseadelica",
       "discordURL": "https://discord.gg/xRrHRsb5e9",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "ttG6pEVP2jk=",
-      "Size": 176607007,
+      "Hash": "u7CfURG//FU=",
+      "Size": 176607023,
       "NumberOfArchives": 983,
       "SizeOfArchives": 100705614375,
       "NumberOfInstalledFiles": 343974,
-      "SizeOfInstalledFiles": 166751455233,
-      "TotalSize": 267457069608
+      "SizeOfInstalledFiles": 166751455234,
+      "TotalSize": 267457069609
     },
     "version": "3.23",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-03-31T22:30:24.2584699Z",
+    "dateUpdated": "2025-03-31T23:19:31.8689162Z",
     "repositoryName": ""
   }
 ]
