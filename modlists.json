@@ -110,23 +110,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/The-Animonculory/Curseadelica/refs/heads/main/banner.webp",
       "readme": "https://github.com/The-Animonculory/Curseadelica/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Apostasy - Allow Death.wabbajack_ad04f123-b8fa-4a92-abf9-4f152e8cecd6",
+      "download": "https://authored-files.wabbajack.org/Cursedelica.wabbajack_aa30aab9-efa7-4fe7-8b9b-f05b08d5bde2",
       "machineURL": "Curseadelica",
       "discordURL": "https://discord.gg/xRrHRsb5e9",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "u7CfURG//FU=",
-      "Size": 176607023,
+      "Hash": "DOoPHbrddnA=",
+      "Size": 174970216,
       "NumberOfArchives": 983,
       "SizeOfArchives": 100705614375,
-      "NumberOfInstalledFiles": 343974,
-      "SizeOfInstalledFiles": 166751455234,
-      "TotalSize": 267457069609
+      "NumberOfInstalledFiles": 343975,
+      "SizeOfInstalledFiles": 166751456450,
+      "TotalSize": 267457070825
     },
     "version": "3.23",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-03-31T23:19:31.8689162Z",
+    "dateUpdated": "2025-04-02T06:28:16.8333007Z",
     "repositoryName": ""
   }
 ]
