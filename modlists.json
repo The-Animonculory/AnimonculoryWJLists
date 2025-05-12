@@ -128,5 +128,49 @@
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2025-04-02T06:28:16.8333007Z",
     "repositoryName": ""
+  },
+  {
+    "title": "Aurora - A Visual Overhaul",
+    "description": "Aurora is a Wabbajack visuals-only list for Skyrim Special Edition with an emphasis on consistency. Based on Skyrim Modding Essentials.",
+    "author": "Phoenix",
+    "maintainers": [
+      "github/foreverphoenix",
+      "github/Althro",
+      "github/Codygits",
+      "github/Styyx1",
+      "github/TDarkShadow"
+    ],
+    "game": "skyrimspecialedition",
+    "official": false,
+    "tags": [
+      "Visuals Only",
+      "Anniversary Edition"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/The-Animonculory/Aurora/refs/heads/main/aurora.webp",
+      "readme": "https://github.com/The-Animonculory/Aurora/blob/main/README.md",
+      "download": "https://github.com/The-Animonculory/Aurora/releases/download/1.5.5/Aurora.wabbajack",
+      "machineURL": "aur",
+      "discordURL": "https://discord.gg/xRrHRsb5e9",
+      "websiteURL": "https://thephoenixflavour.com/skyrim-se/aur/introduction/"
+    },
+    "download_metadata": {
+      "Hash": "X0qXzfsrX8Q=",
+      "Size": 814109453,
+      "NumberOfArchives": 1099,
+      "SizeOfArchives": 77623074908,
+      "NumberOfInstalledFiles": 185157,
+      "SizeOfInstalledFiles": 86614011803,
+      "TotalSize": 164237086711
+    },
+    "version": "1.5.5",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2025-05-12T09:40:11.956227Z",
+    "repositoryName": ""
   }
 ]
