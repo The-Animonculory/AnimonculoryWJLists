@@ -23,23 +23,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Althro/ADT/main/Resources/ADTNew.webp",
       "readme": "https://raw.githubusercontent.com/Althro/ADT/main/README.md",
-      "download": "https://authored-files.wabbajack.org/ADT.wabbajack_3d31fe90-45cf-4d3d-b64a-18d64b81065a",
+      "download": "https://authored-files.wabbajack.org/Styyx Tooling For Dev - STD.wabbajack_840a96ab-7d18-4cc8-bfef-60b70810430d",
       "machineURL": "ADT",
       "discordURL": "https://discord.gg/xRrHRsb5e9",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "q2uWWFlROCQ=",
-      "Size": 40649526,
-      "NumberOfArchives": 236,
-      "SizeOfArchives": 17345724371,
-      "NumberOfInstalledFiles": 21972,
-      "SizeOfInstalledFiles": 19279766215,
-      "TotalSize": 36625490586
+      "Hash": "U3k5Y580gI0=",
+      "Size": 43428528,
+      "NumberOfArchives": 256,
+      "SizeOfArchives": 17544856088,
+      "NumberOfInstalledFiles": 29406,
+      "SizeOfInstalledFiles": 19875763210,
+      "TotalSize": 37420619298
     },
-    "version": "8.0.0",
+    "version": "9.0.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-02-24T05:40:32.5028186Z",
+    "dateUpdated": "2025-11-15T17:33:56.532964Z",
     "repositoryName": ""
   },
   {
