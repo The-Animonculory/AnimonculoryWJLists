@@ -1,8 +1,8 @@
 [
   {
-    "title": "ADT",
+    "title": "Styyx Tooling For Dev - STD",
     "description": "Designed as the mod author\u0027s tool kit, Animonculory Dev Tools comes with all the tools you need to create and test your mods. Featuring mandatory DLL level fixes \u0026 libraries to build your own with, a fully patched Creation Kit for 1.6.xx and a few tweaks, it\u0027s the ideal playground to both work and build on.",
-    "author": "Althro",
+    "author": "Althro/Styyx",
     "maintainers": [
       "althro",
       "github/Althro",
@@ -21,8 +21,8 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/Althro/ADT/main/Resources/ADTNew.webp",
-      "readme": "https://raw.githubusercontent.com/Althro/ADT/main/README.md",
+      "image": "https://raw.githubusercontent.com/Styyx1/ADT/refs/heads/main/Resources/NewTitle.webp",
+      "readme": "https://github.com/Styyx1/ADT/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Styyx Tooling For Dev - STD.wabbajack_840a96ab-7d18-4cc8-bfef-60b70810430d",
       "machineURL": "ADT",
       "discordURL": "https://discord.gg/xRrHRsb5e9",
@@ -173,4 +173,5 @@
     "dateUpdated": "2025-05-12T09:40:11.956227Z",
     "repositoryName": ""
   }
+
 ]
