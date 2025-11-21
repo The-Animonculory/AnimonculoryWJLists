@@ -21,7 +21,7 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/Styyx1/ADT/refs/heads/main/Resources/NewTitle.webp",
+      "image": "https://raw.githubusercontent.com/Styyx1/ADT/main/Resources/NewTitle.webp",
       "readme": "https://github.com/Styyx1/ADT/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Styyx Tooling For Dev - STD.wabbajack_3116ecee-bd72-40b5-b08f-f9b823e2cbc7",
       "machineURL": "ADT",
@@ -173,4 +173,5 @@
     "dateUpdated": "2025-05-12T09:40:11.956227Z",
     "repositoryName": ""
   }
+
 ]
