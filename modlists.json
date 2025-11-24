@@ -23,23 +23,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Styyx1/ADT/main/Resources/CompileTitle.webp",
       "readme": "https://github.com/Styyx1/ADT/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Styyx Tooling For Dev - STD.wabbajack_3116ecee-bd72-40b5-b08f-f9b823e2cbc7",
+      "download": "https://authored-files.wabbajack.org/Styyx Tooling For Dev - STD.wabbajack_18cd3dbd-8338-4743-82c0-581463f996c3",
       "machineURL": "ADT",
       "discordURL": "https://discord.gg/xRrHRsb5e9",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "KKhITS+h/a4=",
-      "Size": 43428452,
-      "NumberOfArchives": 252,
-      "SizeOfArchives": 17544852898,
-      "NumberOfInstalledFiles": 29402,
-      "SizeOfInstalledFiles": 19875760162,
-      "TotalSize": 37420613060
+      "Hash": "alXKXLsc6jA=",
+      "Size": 43424609,
+      "NumberOfArchives": 250,
+      "SizeOfArchives": 17522093208,
+      "NumberOfInstalledFiles": 29401,
+      "SizeOfInstalledFiles": 19875748488,
+      "TotalSize": 37397841696
     },
-    "version": "9.0.0",
+    "version": "9.0.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-11-17T15:42:14.8415762Z",
+    "dateUpdated": "2025-11-24T21:42:21.5342879Z",
     "repositoryName": ""
   },
   {
@@ -173,6 +173,4 @@
     "dateUpdated": "2025-05-12T09:40:11.956227Z",
     "repositoryName": ""
   }
-
 ]
-
