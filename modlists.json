@@ -48,7 +48,7 @@
     "author": "Styyx",
     "maintainers": [
       "github/Styyx1",
-      "Styyx"
+      "v"
     ],
     "game": "skyrimspecialedition",
     "official": false,
@@ -171,6 +171,50 @@
     "version": "1.5.6",
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2025-05-12T09:40:11.956227Z",
+    "repositoryName": ""
+  },
+  {
+    "title": "Al and Styyx Setup of Skyrim - ASSOS",
+    "description": "Designed as a base for list authors to build their list upon. It comes with basic tools and most important bug fixes",
+    "author": "Althro/Styyx",
+    "maintainers": [
+      "althro",
+      "github/Althro",
+      "Styyx",
+      "github/Styyx1",
+      "github/Abandoned-1248"
+    ],
+    "game": "skyrimspecialedition",
+    "official": true,
+    "tags": [
+      "Utility"
+    ],
+    "nsfw": false,
+    "utility_list": true,
+    "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      
+      "image": "https://raw.githubusercontent.com/The-Animonculory/ASSOS/master/Docs/Images/CompileLogo.webp",
+      "readme": "https://github.com/The-Animonculory/ASSOS/blob/master/Readme.md",
+      "download": "https://authored-files.wabbajack.org/ASSOS.wabbajack_a3a66d27-c223-49cc-a619-95f30401f5b4",
+      "machineURL": "ASSOS",
+      "discordURL": "https://discord.gg/B2ZzzBRTB5",
+      "websiteURL": ""
+    },
+    "download_metadata": {
+      "Hash": "fmJxwV9N+vA=",
+      "Size": 7841896,
+      "NumberOfArchives": 242,
+      "SizeOfArchives": 17234484637,
+      "NumberOfInstalledFiles": 12702,
+      "SizeOfInstalledFiles": 19016578906,
+      "TotalSize": 36251063543
+    },
+    "version": "0.9.0",
+    "dateCreated": "2025-01-06T01:33:05Z",
+    "dateUpdated": "2025-11-24T21:42:21.5342879Z",
     "repositoryName": ""
   }
 ]
