@@ -197,23 +197,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/The-Animonculory/ASSOS/refs/heads/master/Docs/Images/ASSOSLogo.webp",
       "readme": "https://github.com/The-Animonculory/ASSOS/blob/master/Readme.md",
-      "download": "https://authored-files.wabbajack.org/ASSOS.wabbajack_1ad38857-0f6b-475d-8b46-1b99c34b562e",
+      "download": "https://authored-files.wabbajack.org/ASSOS.wabbajack_092bfbbe-002c-4683-93f8-b08852a45352",
       "machineURL": "ASSOS",
       "discordURL": "https://discord.gg/B2ZzzBRTB5",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "GEUDJqLQK+g=",
-      "Size": 6916783,
+      "Hash": "LKTl2WsYxVQ=",
+      "Size": 6916789,
       "NumberOfArchives": 242,
       "SizeOfArchives": 17234484637,
       "NumberOfInstalledFiles": 12701,
-      "SizeOfInstalledFiles": 19015648517,
-      "TotalSize": 36250133154
+      "SizeOfInstalledFiles": 19015648519,
+      "TotalSize": 36250133156
     },
     "version": "1.0.0",
     "dateCreated": "2026-01-06T01:33:05Z",
-    "dateUpdated": "2026-01-06T05:08:49.1991727Z",
+    "dateUpdated": "2026-01-06T05:58:32.4158993Z",
     "repositoryName": ""
   }
 ]
