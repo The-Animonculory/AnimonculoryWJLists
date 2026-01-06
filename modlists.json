@@ -195,7 +195,7 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/The-Animonculory/ASSOS/refs/heads/master/Docs/Images/CompileLogo.webp",
+      "image": "https://raw.githubusercontent.com/The-Animonculory/ASSOS/refs/heads/master/Docs/Images/ASSOSLogo.webp",
       "readme": "https://github.com/The-Animonculory/ASSOS/blob/master/Readme.md",
       "download": "https://authored-files.wabbajack.org/ASSOS.wabbajack_1ad38857-0f6b-475d-8b46-1b99c34b562e",
       "machineURL": "ASSOS",
@@ -212,7 +212,7 @@
       "TotalSize": 36250133154
     },
     "version": "1.0.0",
-    "dateCreated": "2025-01-06T01:33:05Z",
+    "dateCreated": "2026-01-06T01:33:05Z",
     "dateUpdated": "2026-01-06T05:08:49.1991727Z",
     "repositoryName": ""
   }
