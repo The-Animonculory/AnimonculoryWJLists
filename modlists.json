@@ -195,7 +195,7 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/The-Animonculory/ASSOS/master/Docs/Images/CompileLogo.webp",
+      "image": "https://raw.githubusercontent.com/The-Animonculory/ASSOS/refs/heads/master/Docs/Images/CompileLogo.webp",
       "readme": "https://github.com/The-Animonculory/ASSOS/blob/master/Readme.md",
       "download": "https://authored-files.wabbajack.org/ASSOS.wabbajack_1ad38857-0f6b-475d-8b46-1b99c34b562e",
       "machineURL": "ASSOS",
