@@ -8,6 +8,18 @@ Listed below is a short summary of all the Animonculory modlists, and what mods 
 
 ***
 
+### [Al/Styyx Setup of Skyrim - ASSOS](https://github.com/The-Animonculory/ASSOS)
+
+> *Get Started with your modlist without setting up the basic bug fixes and frameworks yourself.*
+
+**Al and Styyx's Setup of Skyrim (ASSOS)** is designed to serve as a base to build off. You'll find all the required bug-fixes and frameworks present, with a few other items to help facilitate your list building. 
+
+Whilst it is not designed for you to play the game with, it'll be stable enough to do so with. There's other lists probably more suited to that though.
+
+A full list of mods used can be found [here](https://loadorderlibrary.com/lists/al-styyx-setup-of-skyrim-assos).
+
+***
+
 ### [Aurora](https://github.com/The-Animonculory/Aurora) - CARETAKER ONLY
 
 *Aurora is a visuals-only Wabbajack list for Skyrim Special Edition with emphasis on consistency. Based on Skyrim Modding Essentials.*
@@ -34,9 +46,13 @@ That is all you need to know.
 
 ### [Styyx Tooling For Dev](https://github.com/Styyx1/ADT)
 
-Designed to be the mod author's tool kit, Styyx Tooling for Dev comes with everything you need to create and test your mods. Featuring mandatory engine fixes, DLL libaries to build plugins with, a fully patched creation kit and modding libraries, it's the ideal playground to both work and build on. If you are led to the list thinking it's an ideal base to build your own modlist with, you've been misled, while it can be used for that, it's probably not what you want.
+Designed to be the mod author’s tool kit, **Styyx’s Tooling for Dev (STD)** comes with everything you need to create and test your mods. Featuring mandatory engine fixes, DLL libraries to build plugins with, a fully patched Creation Kit and modding libraries, it’s the ideal playground to build and work on.
 
-And to prevent any confusion, STD does use the version 1.6.1170 of Skyrim.
+This list is not designed for building a modlist with. We recommend using **Al and Styyx's Setup of Skyrim (ASSOS)** which can be found [here](https://github.com/The-Animonculory/ASSOS).
+
+STD uses SkyrimSE executable version **1.6.1170**, but **does not require** the paid update to the game.
+
+The full list of mods used can be found [here](https://loadorderlibrary.com/lists/adt).
 
 ***
 
