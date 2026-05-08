@@ -112,7 +112,7 @@
     "links": {
       "image": "https://raw.githubusercontent.com/The-Animonculory/Curseadelica/refs/heads/main/banner.webp",
       "readme": "https://github.com/The-Animonculory/Curseadelica/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Curseadelica.wabbajack_558f7757-2bab-4d9c-a364-2494ce862af5",
+      "download": "https://authored-files.wabbajack.org/Curseadelica.wabbajack_0a78a2c2-f1b2-4a84-b67f-75549dfdd368",
       "machineURL": "Curseadelica",
       "discordURL": "https://discord.gg/xRrHRsb5e9",
       "websiteURL": "",
@@ -124,17 +124,17 @@
       }
     },
     "download_metadata": {
-      "Hash": "6NGNVz5C4tI=",
-      "Size": 76996259,
+      "Hash": "kk1HMmxo4ag=",
+      "Size": 96994566,
       "NumberOfArchives": 978,
       "SizeOfArchives": 102610704077,
-      "NumberOfInstalledFiles": 346061,
-      "SizeOfInstalledFiles": 171786272829,
-      "TotalSize": 274396976906
+      "NumberOfInstalledFiles": 346197,
+      "SizeOfInstalledFiles": 171823535904,
+      "TotalSize": 274434239981
     },
-    "version": "3.24",
+    "version": "3.25",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-05-08T10:54:26.8992006Z",
+    "dateUpdated": "2026-05-08T17:48:43.851536Z",
     "repositoryName": ""
   },
   {
