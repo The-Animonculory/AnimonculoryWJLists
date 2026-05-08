@@ -26,7 +26,8 @@
       "download": "https://authored-files.wabbajack.org/Styyx Tooling For Dev - STD.wabbajack_18cd3dbd-8338-4743-82c0-581463f996c3",
       "machineURL": "ADT",
       "discordURL": "https://discord.gg/xRrHRsb5e9",
-      "websiteURL": ""
+      "websiteURL": "",
+      "nexusCollection": null
     },
     "download_metadata": {
       "Hash": "alXKXLsc6jA=",
@@ -69,7 +70,8 @@
       "download": "https://authored-files.wabbajack.org/Nocturnia.wabbajack_7282e945-1f62-4212-856e-f0b35e61cfd0",
       "machineURL": "noct",
       "discordURL": "https://discord.gg/JycmyqzZz7",
-      "websiteURL": ""
+      "websiteURL": "",
+      "nexusCollection": null
     },
     "download_metadata": {
       "Hash": "EeHAri9k/eA=",
@@ -110,23 +112,24 @@
     "links": {
       "image": "https://raw.githubusercontent.com/The-Animonculory/Curseadelica/refs/heads/main/banner.webp",
       "readme": "https://github.com/The-Animonculory/Curseadelica/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Cursedelica.wabbajack_aa30aab9-efa7-4fe7-8b9b-f05b08d5bde2",
+      "download": "https://authored-files.wabbajack.org/Curseadelica.wabbajack_558f7757-2bab-4d9c-a364-2494ce862af5",
       "machineURL": "Curseadelica",
       "discordURL": "https://discord.gg/xRrHRsb5e9",
-      "websiteURL": ""
+      "websiteURL": "",
+      "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "DOoPHbrddnA=",
-      "Size": 174970216,
-      "NumberOfArchives": 983,
-      "SizeOfArchives": 100705614375,
-      "NumberOfInstalledFiles": 343975,
-      "SizeOfInstalledFiles": 166751456450,
-      "TotalSize": 267457070825
+      "Hash": "6NGNVz5C4tI=",
+      "Size": 76996259,
+      "NumberOfArchives": 978,
+      "SizeOfArchives": 102610704077,
+      "NumberOfInstalledFiles": 346061,
+      "SizeOfInstalledFiles": 171786272829,
+      "TotalSize": 274396976906
     },
-    "version": "3.23",
+    "version": "3.24",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-04-02T06:28:16.8333007Z",
+    "dateUpdated": "2026-05-08T10:54:26.8992006Z",
     "repositoryName": ""
   },
   {
@@ -157,7 +160,8 @@
       "download": "https://github.com/The-Animonculory/Aurora/releases/download/1.5.6/Aurora.wabbajack",
       "machineURL": "aur",
       "discordURL": "https://discord.gg/xRrHRsb5e9",
-      "websiteURL": "https://thephoenixflavour.com/skyrim-se/aur/introduction/"
+      "websiteURL": "https://thephoenixflavour.com/skyrim-se/aur/introduction/",
+      "nexusCollection": null
     },
     "download_metadata": {
       "Hash": "MirshCpI9bg=",
@@ -200,7 +204,8 @@
       "download": "https://authored-files.wabbajack.org/ASSOS.wabbajack_092bfbbe-002c-4683-93f8-b08852a45352",
       "machineURL": "ASSOS",
       "discordURL": "https://discord.gg/B2ZzzBRTB5",
-      "websiteURL": ""
+      "websiteURL": "",
+      "nexusCollection": null
     },
     "download_metadata": {
       "Hash": "LKTl2WsYxVQ=",
