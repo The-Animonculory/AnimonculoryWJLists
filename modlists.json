@@ -116,7 +116,12 @@
       "machineURL": "Curseadelica",
       "discordURL": "https://discord.gg/xRrHRsb5e9",
       "websiteURL": "",
-      "nexusCollection": null
+      "nexusCollection": {
+        "collectionId": "446413",
+        "slug": "nfbquh",
+        "domainName": "skyrimspecialedition",
+        "lastRevisionNumber": 1
+      }
     },
     "download_metadata": {
       "Hash": "6NGNVz5C4tI=",
