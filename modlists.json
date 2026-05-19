@@ -23,24 +23,24 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Styyx1/ADT/main/Resources/CompileTitle.webp",
       "readme": "https://github.com/Styyx1/ADT/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Styyx Tooling For Dev - STD.wabbajack_a6f4635d-58a4-4ebc-afc7-9bb3a8996570",
+      "download": "https://authored-files.wabbajack.org/Styyx Tooling For Dev - STD.wabbajack_d7aab988-b6ca-4c2d-b3d2-5a5ebdeabe13",
       "machineURL": "ADT",
       "discordURL": "https://discord.gg/xRrHRsb5e9",
       "websiteURL": "",
       "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "T0GpTV2GI2k=",
-      "Size": 43448982,
+      "Hash": "4xUOOugtEkc=",
+      "Size": 43449231,
       "NumberOfArchives": 250,
       "SizeOfArchives": 17617358275,
       "NumberOfInstalledFiles": 29408,
-      "SizeOfInstalledFiles": 20290786210,
-      "TotalSize": 37908144485
+      "SizeOfInstalledFiles": 20290786187,
+      "TotalSize": 37908144462
     },
-    "version": "9.1.0",
+    "version": "9.1.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-05-11T21:56:00.458164Z",
+    "dateUpdated": "2026-05-19T15:22:12.8652996Z",
     "repositoryName": ""
   },
   {
