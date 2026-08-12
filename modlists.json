@@ -23,26 +23,26 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Styyx1/ADT/main/Resources/CompileTitle.webp",
       "readme": "https://github.com/Styyx1/ADT/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Styyx Tooling For Dev - STD.wabbajack_d7aab988-b6ca-4c2d-b3d2-5a5ebdeabe13",
+      "download": "https://authored-files.wabbajack.org/Styyx Tooling For Dev - STD.wabbajack_495ab1cc-d46a-465e-b1ba-b99188fbcd41",
       "machineURL": "ADT",
       "discordURL": "https://discord.gg/xRrHRsb5e9",
       "websiteURL": "",
       "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "4xUOOugtEkc=",
-      "Size": 43449231,
-      "NumberOfArchives": 250,
-      "SizeOfArchives": 17617358275,
-      "NumberOfInstalledFiles": 29408,
-      "SizeOfInstalledFiles": 20290786187,
-      "TotalSize": 37908144462
+      "Hash": "GaoOjmQ4O4I=",
+      "Size": 43595274,
+      "NumberOfArchives": 251,
+      "SizeOfArchives": 17689616950,
+      "NumberOfInstalledFiles": 29720,
+      "SizeOfInstalledFiles": 20569490419,
+      "TotalSize": 38259107369
     },
-    "version": "9.1.1",
+    "version": "9.2.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-05-19T15:22:12.8652996Z",
+    "dateUpdated": "2026-08-12T06:15:16.0808665Z",
     "repositoryName": ""
-  },  
+  },
   {
     "title": "Aurora - A Visual Overhaul",
     "description": "Aurora is a Wabbajack visuals-only list for Skyrim Special Edition with an emphasis on consistency. Based on Skyrim Modding Essentials.",
